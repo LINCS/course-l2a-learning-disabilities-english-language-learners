@@ -1,0 +1,276 @@
+<?xml version="1.0" encoding="utf-8"?>
+<course path="vis/" slideName="slide" otto="1.00">
+     <lesson lessonname="Learning to Achieve" folder="lesson1/">
+	 <!--SLIDE 1--------------------------------------------------------------------------------------------------------->
+		  <slide>
+               <title>Navigation</title>
+               <cctext>Along the bottom of the screen there are several navigation buttons.  You will need to click the Next button to move to the next slide, and click the Back button to move to the previous slide.  The Replay button allows you to repeat the slide that you are viewing from the very beginning, and the Pause button allows you to temporarily freeze the slide that you are viewing.  The Audio On/Off button turns the audio portion of the course on or off.  The Course Map displays an overview of the course.  Lastly, the CC button, which stands for Closed Captioning, allows you to follow along with the course's narration if needed. Throughout this module you may see blue links, these are clickable at anytime to open additional online resources.
+Rollover the highlighted areas to review this information again.  Once you are ready to get started, click the Next button.</cctext>
+          </slide>
+          <!--SLIDE 2--------------------------------------------------------------------------------------------------------->
+		  <slide>
+               <title>Introduction and Objectives</title>
+               <cctext>Welcome to the English Language Learners Lesson of the Learning to Achieve Training Program, a research-based training on serving adults with learning disabilities.  This program is brought to you by Literacy Information and Communication System.
+In this lesson, we will be looking at the challenges of learning English as a foreign language, and the difficulties associated with testing for and diagnosing learning disabilities in English language learners, or ELLs.  There is virtually no research on adult ELLs with diagnosed learning disabilities, so the information and guidance in this lesson draws on findings from research on ELL children with LD and adult ELLs without an LD diagnosis.  As a result of the lack of research, we must be very cautious in making statements about and taking actions involving adult ELLs who may or may not have LD.  Let's start by reviewing the learning goals of this lesson.
+Upon completion of this lesson, you will be able to recognize how prevalent ELLs are in the United States and describe the challenges they face in learning English; identify key considerations when screening and testing ELLs who are suspected of having a learning disability; and describe instructional classroom strategies for teaching ELLs with suspected or diagnosed learning disabilities.
+Please click the Next button to continue.
+</cctext>
+          </slide>
+		  
+		  <!--SLIDE 3--------------------------------------------------------------------------------------------------------->
+		  <slide>
+               <title>Guiding Questions</title>
+               <cctext>To help guide our learning, we will refer to four key questions:  How prevalent are ELLs in the United States and what makes learning English so difficult for them?  What are the difficulties associated with screening and testing ELLs for learning disabilities?  If a learner and instructor choose to explore the option of testing for learning disabilities, what considerations should an instructor bear in mind? And what are some strategies for teaching ELLs with suspected or identified learning disabilities?  But before we explore the answers to these questions, we'll continue by reviewing some key terms that are used in this field.</cctext>
+          </slide>
+		  
+		  <!--SLIDE 4--------------------------------------------------------------------------------------------------------->
+		  <slide>
+               <title>English Language Learners Terminology</title>
+               <cctext>Throughout this training, there are two terms we will use frequently:  English language learners and learning disabilities.  
+English language learners, or ELLs, refers to individuals who are learning English as a foreign language. 
+Sometimes, ELLs are identified as having learning disabilities, or LD.  The term "learning disabilities" is used to refer to a wide variety of disorders that involve difficulties with listening, speaking, reading, writing, reasoning, or mathematical skills. 
+Other terms you will encounter are: BICS stands for basic interpersonal communication skills.  A learner who has acquired BICS is able to carry on oral conversations and write about day-to-day life. CALPS stands for cognitive and academic language proficiency skills.  A learner who has acquired CALPS is as proficient in the new target language they have learned as in their native language. Click on the pages to review these definitions again.
+</cctext>
+          </slide>
+		  
+		  <!--SLIDE 5--------------------------------------------------------------------------------------------------------->
+		  <slide>
+               <title>Prevalence of ELLs in the U.S.</title>
+               <cctext>Our first guiding question is "How prevalent are ELLs in the United States and what makes learning English so difficult for them?"  Let's look at the prevalence first. 
+Take a moment and think about the displayed question:  In the program year 2004 to 2005, how many learners enrolled in the adult education state grant program?  When you're ready, click on the correct answer choice.
+2,581,281 learners enrolled in the adult state grant program. 
+Now, what percentage of those learners do you think were enrolled specifically  in ELL programs?
+44 percent of adult learners enrolled in English Literacy programs.  Nationally, English Literacy programs are in high demand.   In fact, in states such as California and Nevada, ELLs represent 70 percent of the enrollment in adult education classes.  You can see why it is imperative that we learn more about these students' needs.       
+</cctext>
+          </slide>
+		  
+		  <!--SLIDE 6--------------------------------------------------------------------------------------------------------->
+		  <slide>
+               <title>Identifying, Screening, and Evaluating Learning Disabilities</title>
+               <cctext>Now that we've talked about the prevalence of ELLs in the United States, let's work on answering the second part of our guiding question:  What can make learning English difficult for ELLs?  There are actually many contributors that should be considered, including limited academic skills with the primary language; external problems with work, health, or family; stress or trauma that was experienced early in life; social or cultural identity issues; a mismatch between the instructor style and learner; a lack of school attendance; and limited practice outside of the instructional setting.
+LD can also make learning English difficult for many ELLs.  However, it is not always clear if an ELL has a learning disability.  This is why it is so important that you screen your ELL students when you suspect they have a learning disability.  Based on your findings, you then need to determine if a formal diagnostic evaluation performed by a professional is needed. 
+We will continue by reviewing how to perform effective screening and diagnostic evaluations for ELLs with suspected LD.  However, please note that one of the primary challenges when teaching ELLs is screening and testing them for LD because there is limited access to validated evaluation tools for non-English speaking individuals.  
+</cctext>
+          </slide>
+		  
+		  <!--SLIDE 7--------------------------------------------------------------------------------------------------------->
+		  <slide>
+               <title>Screening for Learning Disabilities</title>
+               <cctext>When screening for LD in ELLs, the goal is not to diagnose the learner's academic strengths and weaknesses in each skill area, but to provide a rough estimate of the learners' overall skill levels.  Screening instruments, including those for LD, include all or most of the following characteristics:
+	Helpful in determining the need for future testing
+	Inexpensive
+	Quick to administer, score, and interpret
+	Appropriate for large numbers of persons and may sometimes be administered in group settings
+	Narrow in purpose
+	Able to provide a superficial assessment of several areas, such as language, motor, or social skills
+	Usable without extensive training of staff
+Review the displayed list before moving on to the next slide.
+</cctext>
+          </slide>
+		  
+		  <!--SLIDE 8--------------------------------------------------------------------------------------------------------->
+		  <slide>
+               <title>Screening for Learning Disabilities </title>
+               <cctext>Let's take a quick look at a sample LD screening tool.  The displayed sample questions were taken from the Washington State Screening tool, which is a public domain tool.  
+	Did you have any problems learning in middle school or junior high school?
+	Do you have difficulty or experience problems with arithmetic signs ?
+	Do you have difficulty remembering how to spell simple words you know?
+	Do you have difficulty or experience problems taking notes? 
+The tool is validated for English speakers only, not ELLs.  
+Translators may use the screening tool, but must be mindful of the possibility of inaccuracies in translated responses.  For example, inaccuracies may occur when a family member who is translating sees a need to shield the individual being screened.  
+In addition, the use of screening questions regarding school history may be limited since school attendance can have different meanings in different cultures.  Please note, there is a validated tool available for Spanish speakers called the Empire State screening tool.  This tool was developed through the Learning Disabilities Association of Western New York.  To learn more about the screening tool, contact the Learning Disabilities Association of Western New York.
+</cctext>
+          </slide>
+		  
+		  <!--SLIDE 9--------------------------------------------------------------------------------------------------------->
+		  <slide>
+               <title>Performing Diagnostic Evaluations for Learning Disabilities</title>
+               <cctext>If a screening session indicates that an ELL may have a learning disability, the next step is performing a diagnostic evaluation.  Remember, screening only indicates the likelihood of a learning disability, so it is critical that a follow-up diagnostic evaluation is completed to determine if a disability truly exists.
+Similar to screenings, diagnostic tests are available in Spanish with the use of a translator if the psychologist is not fluent in Spanish.  Again, keep in mind that the translator should only be used if their responses will be unbiased.  
+A learning disability diagnostic report can offer a wide variety of information.  Click on the arrows to learn more. 
+</cctext>
+          </slide>
+		  
+		  <!--SLIDE 10--------------------------------------------------------------------------------------------------------->
+		  <slide>
+               <title>Help for Performing Diagnostic Evaluations</title>
+               <cctext>If the student and the instructor decide to move forward with a diagnostic evaluation, there are a variety of resources available. These national organizations and online resources can provide local professional referrals, and may also have information about financial assistance for testing. 
+Click each button to learn more.
+The IDA is a non-profit organization dedicated to helping individuals with dyslexia, their families, and the communities that support them. IDA provides resources in the following areas: information and referral services, research, advocacy and public policy, and professional development. Click the blue link to contact them directly or to learn more; then you can either click on the next organization button or the continue button.
+The LDA is the largest non-profit volunteer organization advocating for individuals with LD. LDA's resources include services designed to support and promote the success of individuals with LD, collaborative activities, and position papers on critical issues. Click the blue link to contact them directly or to learn more; then you can either click on the next organization button or the continue button.
+This website features articles, multimedia, monthly columns by noted experts, first person essays, a comprehensive resource guide, forums, and a Yellow Pages referral directory of professionals, schools, and products. Click the blue link to visit the yellow page section or click on the continue button.
+Be sure to ask potential testers about their experiences and specializations before referring a provider. Do they have experience with evaluating ELL? Also ask about the test being administered. 
+The cost of an evaluation can range from hundreds to thousands of dollars, based on the evaluator and battery of tests provided.  Some state Vocational Rehabilitation Programs provide funding for evaluations. To find out more about Vocational Rehabilitation Services visit The National Rehabilitation Association.  
+</cctext>
+          </slide>
+		  
+		  <!--SLIDE 11--------------------------------------------------------------------------------------------------------->
+		  <slide>
+               <title>Case Study 1:  Why Is Felipe Struggling?</title>
+               <cctext>Here we'll review a quick case study to help you reflect on the ELL students that may walk through your door.  
+Story Information
+Felipe is a 19-year-old born in Mexico.  When he was 12 years old, he moved to the United States with his family.  He has two brothers and one sister, and has always been interested in becoming a firefighter, but first wants to increase his English skills to help him better communicate with co-workers.  His education has been in Mexico and the United States.  However, his schooling was frequently interrupted by moves.  Felipe did not finish high school; he grew up speaking Spanish and limited English; and he reports reading problems in both Spanish and English.  Felipe is currently enrolled in an adult basic education class.
+Case Study Question
+Based on this information, can you determine why Felipe is struggling in both Spanish and English?  
+Correct Remediation:  That's correct!  While you have gathered some important background information on Felipe's family, schooling, and aspirations, more information is needed to determine why Felipe is struggling and whether or not he has a learning disability.  
+There are many reasons adult ELLs, like Felipe, struggle to learn English.  These struggles cannot always be attributed to a learning disability and need to be looked into further through screening and a diagnostic evaluation.     
+Incorrect Remediation:  That's incorrect.  While you have gathered some background information on Felipe's family, schooling, and aspirations, you need to learn more about Felipe to determine why he is struggling and whether or not he has a learning disability.  
+There are many reasons adult ELLs, like Felipe, struggle to learn English.  These struggles cannot always be attributed to a learning disability and need to be looked into further through screening and a diagnostic evaluation.</cctext>
+          </slide>
+		  
+		  <!--SLIDE 12--------------------------------------------------------------------------------------------------------->
+		  <slide>
+               <title>Two Levels of Language Proficiency </title>
+               <cctext>Let's assume that through an informal screening, followed by a diagnostic evaluation, it has been determined that Felipe is struggling in Spanish and English because of limited education in his native language.  On top of this challenge, he needs to become proficient in English at two levels of language:  BICS and CALPS.  By acquiring these two levels, Felipe will master the English language.  Let's take a moment to discuss what is meant by BICS and CALPS. 
+As discussed earlier, BICS stands for basic interpersonal communication skills.  A learner who has acquired BICS is able to carry on oral conversations and write about day-to-day life.  The research that first identified BICS was based on observations of children in school, who required 2-3 years to become proficient at that level. 
+CALPS stands for cognitive and academic language proficiency skills.  A learner who has acquired CALPS is as proficient in the new target language they have learned as in their native language.  School children were observed to require between 5 and 7 years of instruction to acquire CALPS.
+As we saw in Felipe's story, obstacles such as limited education in the native language can complicate many adult students' efforts to learn English.  Add to this challenge the time required to become proficient at the BICS and CALPS levels and potential LD, and you can see why many ELLs may struggle.  But finding out which ELLs truly have an LD can be very complex.</cctext>
+          </slide>
+		  
+		  <!--SLIDE 13--------------------------------------------------------------------------------------------------------->
+		  <slide>
+               <title>Case Study 2:  Should Abdul Complete an LD Assessment?</title>
+               <cctext>Our second guiding question is:  What are the difficulties associated with screening and testing ELLs for LD?  Let's review another case study to help us answer this question.
+Story Information
+Abdul is a 32-year-old who has recently moved to the United States. 
+While attending elementary and secondary school in Iran, he had problems with reading and writing Arabic, his native language.  He also struggled to learn English and never completed high school.
+Abdul has two sisters who never experienced any learning problems.  However, this is not the case for Abdul.  He has been trying to increase his reading proficiency by participating in an adult education class, but his progress has been very slow.  He is frustrated and is considering dropping out. 
+Case Study Question
+Based on the information you have about Abdul, should you recommend an LD assessment? 
+Correct Remediation: That's correct.  You need to learn more about Abdul before you recommend an LD assessment.  
+Incorrect Remediation: That's incorrect.  You need to learn more about Abdul before you recommend an LD assessment.  
+Case Study Question 2: What else do you think you should know before recommending an LD assessment for Abdul?
+Select from the list below.
+Remediation: Great choice.  Actually, all of the listed items would be good questions to ask before recommending an LD assessment.  In addition, you may consider the following questions on screen. Only once you have gained enough knowledge through informal observations and asking questions should you move forward with recommending a formal assessment.</cctext>
+          </slide>
+		  
+		  <!--SLIDE 14--------------------------------------------------------------------------------------------------------->
+		  <slide>
+               <title>Difficulties Associated with Testing an Adult ELL for LD</title>
+               <cctext>As we just saw through our case study, there are many questions we should ask before recommending an ELL go through a formal assessment for LD.  By doing so, we can determine if there are true benefits and advantages of moving forward with an assessment and, in some cases, avoid the difficulties associated with testing adult ELLs for LD.  
+Click on each of the listed difficulties to learn more about why testing ELLs for LD can be a challenge.  			   
+Lack of Information
+- There is virtually no research on adult ELLs with diagnosed LD
+- Theories and norms that describe the normal process of language and literacy development in ELLs have yet to be established
+- Without an understanding of normal development, determining what might be considered evidence of LD in an ELL is very difficult
+Influence of Prior Schooling & Individual/Social Factors
+- The role of school in influencing language development is recognized, but not well understood
+- Individual and social factors also influence language development in critical, but poorly understood ways
+Complex Relationship Between Language and Learning
+- The relationship between language and learning is complex and difficult to test
+- Limited language proficiency in English may prevent learning � or mask an LD at the root of learning problems
+- Limited language proficiency may cause learners to perform poorly on assessments used to identify LD
+Lack of Assessment Reliability
+There are many risks associated with testing ELLs for LD:
+- Assessments are mostly in English
+- Assessments may not be culturally appropriate
+- Assessments are normed on English-speaking children, not adults
+- Personnel administering the assessments may not be qualified	
+</cctext>
+          </slide>
+		  
+		  <!--SLIDE 15--------------------------------------------------------------------------------------------------------->
+		  <slide>
+               <title>Case Study 3:  Should Lieu Receive Accommodations on the GED?</title>
+               <cctext>Our next case study involves an adult ELL who is being considered for LD testing.  Her story will help us prepare to explore our third guiding question:  If a learner and instructor choose to explore the option of testing for LD, what considerations should an instructor bear in mind? 
+Story Information
+Lieu is 24 years old. She moved to the United States from Vietnam when she was 18 years old.While in Vietnam, she studied some English, but received very little formal education and never completed high school.  
+Lieu has aspirations to work as a medical technician, but she first needs to pass the GED. She has been experiencing great difficulty developing proficiency in reading and math in her adult education class.  She is worried that her English proficiency skills will hold her back from passing the GED.  When you look into Lieu's background to see if she has any documented LD, you find nothing.   
+Based on what you know, should Lieu receive accommodations when taking the GED? We'll explore this topic further on the following slide.</cctext>
+          </slide>
+		  
+		  <!--SLIDE 16--------------------------------------------------------------------------------------------------------->
+		  <slide>
+               <title>Accommodations for Examinations at the Postsecondary Level</title>
+               <cctext>Since Lieu does not have a documented learning disability, she is not eligible to receive accommodations on the GED.  This is because when it comes to the GED, which is covered under the Americans with Disabilities Act Amendments Act of 2008, no accommodations are provided unless a disability is documented.
+If Lieu wants to take the GED, and she and her teacher are seriously concerned that her performance may be compromised without accommodations, Lieu will need to be evaluated for a learning disability.  
+When ELLs like Lieu plan on being evaluated for LD, there are several important considerations to bear in mind.  We'll continue by taking a look at the top considerations.  However, if you would like to review additional information regarding GED testing, click on the displayed link.
+The Chief Examiner may permit Lieu to use of the following adaptations and devices without prior approval from the GED Administrator, GED Testing Service, or GEDTS trained and certified personnel: 
+Colored transparent overlays
+Clear transparent overlays and highlighter 
+Temporary adhesive (e.g., Post-it Notes) with spatial directions
+Earplugs
+Large print test 
+Magnifying glass
+One test per day 
+Straightedge 
+Or other devices as deemed appropriate</cctext>
+          </slide>
+		  
+		  <!--SLIDE 17--------------------------------------------------------------------------------------------------------->
+		  <slide>
+               <title>Considerations When Testing ELLs for LD</title>
+               <cctext>Before referring an adult ELL for an evaluation, the adult basic education professional should carefully consider if the adult will benefit from such an evaluation.  A diagnosis of LD might lead to more directed intervention or specific accommodations on high-stakes tests.
+However, one of the greatest barriers to the adult ELL obtaining a comprehensive evaluation is the increasingly high cost of such evaluations.  The identification of LD during elementary or secondary schooling is not a binding determination of services at the postsecondary level.  Without the documentation to support the request, many of these individuals will not be able to receive accommodations, particularly on high-stakes tests such as the GED or professional licensure examinations. 
+Another key consideration is the quality of assessment, and ensuring the professional conducting the assessment is qualified.  We'll talk more about this on the following slide.</cctext>
+          </slide>
+		  
+		  <!--SLIDE 18--------------------------------------------------------------------------------------------------------->
+		  <slide>
+               <title>Important Assessment Components</title>
+               <cctext>There are a limited number of evaluators with the expertise to evaluate ELLs for LD.  The qualifications of the professional conducting the assessment should be carefully considered to ensure the ELL receives a thorough and accurate assessment.  Some of the qualifications an evaluator should have include: experience with the culture of the ELL, including the norms in the mother country and local community; appropriate credentials to conduct a comprehensive assessment; experience evaluating adolescents and adults with LD; and fluency in both English and the native language of the examinee. Review the displayed list and then click Next to continue.</cctext>
+          </slide>
+		  
+		  <!--SLIDE 19--------------------------------------------------------------------------------------------------------->
+		  <slide>
+               <title>Important Assessment Components</title>
+               <cctext>If an ELL elects to be evaluated for an LD to obtain accommodations, it is important that the evaluation is thorough and fair.  A comprehensive evaluation includes: consideration of the native language; consideration of the target language; data to support the language of assessment; valid and reliable assessment measures; specific cognitive and language processing areas assessed; professional judgment critical to any decision making; and recommendations for accommodations.  Review the displayed list of what makes up a comprehensive evaluation and click Next to continue.</cctext>
+          </slide>
+		  
+		  <!--SLIDE 20--------------------------------------------------------------------------------------------------------->
+		  <slide>
+               <title>Instructional Classroom Strategies </title>
+               <cctext>We wrap up this lesson by exploring our fourth and final guiding question:  What are some strategies for teaching ELLs with suspected or identified LD? 
+Many of us who teach ELLs have found ourselves wondering whether a certain student has a learning disability that is impeding his or her progress in English.  Yet many of us work in settings where we do not have ready access to consultation, guidance, or referral advice and special needs professionals to address these concerns.
+To further complicate the classroom setting, language challenges are exacerbated for ELL students with LD because they are struggling not just in  one  but two  different languages.  The responsibility then falls on teachers to make sure the classroom environment is not the cause for learning breakdown. 
+This screen includes some suggestions of what an instructor can do when teaching to a culturally and linguistically diverse class.  Click on the arrows to review.
+Reduce the level of distraction in the room.
+Give the gift of time whenever possible. 
+Consider administering tests in alternative formats.
+Whenever appropriate, present material using graphics and/or sensory media.
+Combine both auditory and visual stimuli.
+Have students use a word processor to whatever extent is possible. 
+Make it easy for students to ask for repetition. 
+Allow time in advance for students to think about items to be covered in class.  
+Don't jump without warning from one topic to another. 
+Explicitly state the topic at hand and proceed in a structured, concrete manner.  
+Frame material by relating it to past classroom or personal experience and always highlight new material.
+Don't issue too many instructions at the same time.</cctext>
+          </slide>
+		  
+		  <!--SLIDE 21--------------------------------------------------------------------------------------------------------->
+		  <slide>
+               <title>Instructional Classroom Strategies </title>
+               <cctext>In addition to the instructional strategies you just reviewed, assistive technology can help ELLs with LD accomplish daily living tasks  assisting them in communication, education, work, and recreational activities.  In essence, assistive technology helps them achieve greater independence and enhance their quality of life. 
+According to the definition proposed in the Assistive Technology Act of 1998, "Assistive, or adaptive, technology commonly refers to products, devices, or equipment, whether acquired commercially, modified, or customized, that are used to maintain, increase, or improve the functional capabilities of individuals with disabilities..."
+Shown here are some examples of assistive technology that can be used in an instructional classroom setting.   Click on the arrows to learn more.
+When using a computer, many ELLs with LD may find it helpful to use reading assistive technology software, such as a screen reader. 
+A screen reader is a software application that converts text to speech by reading the written contents of a computer screen. There are a variety of screen readers designed for specific operating systems.
+ELLs with LD may find it helpful to use talking word prediction software when typing on a computer.
+Used along with standard writing software, talking Word prediction software can be beneficial to instruction. These programs use speech synthesizers to provide auditory feedback of what is typed.  
+They also suggest words for you to use as you type and provide spoken feedback to help you find mistakes. This can help ELLs with LD that experience problems writing and editing.</cctext>
+          </slide>
+		  
+		  <!--SLIDE 22--------------------------------------------------------------------------------------------------------->
+		  <slide>
+               <title>Wrap-up</title>
+               <cctext>Throughout this lesson, we've explored the issues surrounding ELLs.  Specifically, we've uncovered the prevalence of ELLs in the U.S. and what makes learning English so difficult for them; looked at the difficulties associated with screening and testing ELLs for LD; discussed the different items to be considered when exploring the option of testing ELLs for LD; and reviewed some strategies for teaching ELLs with suspected or identified LD.  </cctext>
+          </slide>
+		  
+		  <!--SLIDE 23--------------------------------------------------------------------------------------------------------->
+		  <slide>
+               <title>Quiz </title>
+               <cctext>We wrap up this lesson by reviewing what you've learned about English language learners.  To complete this Activity, select the correct answer choice for each question. Keep trying until you get them all correct. </cctext>
+          </slide>
+		  
+		  <!--SLIDE 24--------------------------------------------------------------------------------------------------------->
+		  <slide>
+               <title>Review </title>
+               <cctext>Congratulations!  You have completed the English Language Learners Lesson of the Learning to Achieve Training Program.  
+You should now be able to recognize how prevalent ELLs are in the United States and describe the challenges they face in learning English; identify key considerations when screening and testing ELLs who are suspected of having a learning disability; and describe instructional classroom strategies for teaching ELLs with suspected or diagnosed learning disabilities.</cctext>
+          </slide>
+		  
+	</lesson>
+		
+
+</course>
