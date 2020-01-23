@@ -1,27 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <moodle_backup>
   <information>
-    <name>backup-moodle2-course-237-l2a_ells-20200123-1810-an.mbz</name>
-    <moodle_version>2018051703</moodle_version>
-    <moodle_release>3.5.3 (Build: 20181112)</moodle_release>
-    <backup_version>2018051400</backup_version>
-    <backup_release>3.5</backup_release>
-    <backup_date>1579821064</backup_date>
+    <name>backup.mbz</name>
+    <moodle_version>2013111811.01</moodle_version>
+    <moodle_release>2.6.11+ (Build: 20150619)</moodle_release>
+    <backup_version>2013111800</backup_version>
+    <backup_release>2.6</backup_release>
+    <backup_date>1465545892</backup_date>
     <mnet_remoteusers>0</mnet_remoteusers>
     <include_files>1</include_files>
     <include_file_references_to_external_content>0</include_file_references_to_external_content>
-    <original_wwwroot>https://courses.lincs.ed.gov</original_wwwroot>
+    <original_wwwroot>https://courses.lincs.ed.gov/1</original_wwwroot>
     <original_site_identifier_hash>f13283a315401883a27f6a6b6a964b67</original_site_identifier_hash>
-    <original_course_id>237</original_course_id>
-    <original_course_format>topcoll</original_course_format>
+    <original_course_id>4</original_course_id>
     <original_course_fullname>L2A: Learning Disabilities and English Language Learners</original_course_fullname>
-    <original_course_shortname>L2A: ELLs </original_course_shortname>
-    <original_course_startdate>1565841600</original_course_startdate>
-    <original_course_enddate>0</original_course_enddate>
-    <original_course_contextid>35821</original_course_contextid>
+    <original_course_shortname>ELLPUB</original_course_shortname>
+    <original_course_startdate>1367640000</original_course_startdate>
+    <original_course_contextid>33</original_course_contextid>
     <original_system_contextid>1</original_system_contextid>
     <details>
-      <detail backup_id="42bceff584714649841a1f4c6edcd229">
+      <detail backup_id="7567b0b2bfb91055248527e3a77ff8f7">
         <type>course</type>
         <format>moodle2</format>
         <interactive>1</interactive>
@@ -33,271 +31,52 @@
     <contents>
       <activities>
         <activity>
-          <moduleid>8451</moduleid>
-          <sectionid>2341</sectionid>
-          <modulename>forum</modulename>
-          <title>News forum</title>
-          <directory>activities/forum_8451</directory>
+          <moduleid>6</moduleid>
+          <sectionid>21</sectionid>
+          <modulename>scorm</modulename>
+          <title>Launch the English Language Learners Training</title>
+          <directory>activities/scorm_6</directory>
         </activity>
         <activity>
-          <moduleid>8452</moduleid>
-          <sectionid>2342</sectionid>
-          <modulename>book</modulename>
-          <title>Introduction</title>
-          <directory>activities/book_8452</directory>
+          <moduleid>3019</moduleid>
+          <sectionid>21</sectionid>
+          <modulename>url</modulename>
+          <title>Course Survey</title>
+          <directory>activities/url_3019</directory>
         </activity>
         <activity>
-          <moduleid>8453</moduleid>
-          <sectionid>2342</sectionid>
-          <modulename>book</modulename>
-          <title>Prevalence of ELLs</title>
-          <directory>activities/book_8453</directory>
-        </activity>
-        <activity>
-          <moduleid>8454</moduleid>
-          <sectionid>2342</sectionid>
-          <modulename>book</modulename>
-          <title>Screening and Testing</title>
-          <directory>activities/book_8454</directory>
-        </activity>
-        <activity>
-          <moduleid>8455</moduleid>
-          <sectionid>2342</sectionid>
-          <modulename>book</modulename>
-          <title>Testing Considerations</title>
-          <directory>activities/book_8455</directory>
-        </activity>
-        <activity>
-          <moduleid>8456</moduleid>
-          <sectionid>2342</sectionid>
-          <modulename>book</modulename>
-          <title>Instructional Strategies</title>
-          <directory>activities/book_8456</directory>
-        </activity>
-        <activity>
-          <moduleid>8457</moduleid>
-          <sectionid>2342</sectionid>
-          <modulename>book</modulename>
-          <title>Reflect</title>
-          <directory>activities/book_8457</directory>
-        </activity>
-        <activity>
-          <moduleid>8458</moduleid>
-          <sectionid>2342</sectionid>
-          <modulename>quiz</modulename>
-          <title>Quiz</title>
-          <directory>activities/quiz_8458</directory>
-        </activity>
-        <activity>
-          <moduleid>8459</moduleid>
-          <sectionid>2342</sectionid>
-          <modulename>book</modulename>
-          <title>Conclusion</title>
-          <directory>activities/book_8459</directory>
-        </activity>
-        <activity>
-          <moduleid>8473</moduleid>
-          <sectionid>2342</sectionid>
+          <moduleid>100</moduleid>
+          <sectionid>21</sectionid>
           <modulename>certificate</modulename>
-          <title>L2A: Learning Disabilities and English Language Learners Certificate of Completion</title>
-          <directory>activities/certificate_8473</directory>
+          <title>Certiticate of Completion - L2A  English Language Learners</title>
+          <directory>activities/certificate_100</directory>
         </activity>
       </activities>
       <sections>
         <section>
-          <sectionid>2341</sectionid>
+          <sectionid>14</sectionid>
           <title>0</title>
-          <directory>sections/section_2341</directory>
+          <directory>sections/section_14</directory>
         </section>
         <section>
-          <sectionid>2342</sectionid>
-          <title>Learning Disabilities and ELLs</title>
-          <directory>sections/section_2342</directory>
+          <sectionid>21</sectionid>
+          <title>Learning to Achieve English Language Learners Training Module</title>
+          <directory>sections/section_21</directory>
         </section>
         <section>
-          <sectionid>2343</sectionid>
-          <title>Glossary</title>
-          <directory>sections/section_2343</directory>
+          <sectionid>22</sectionid>
+          <title>2</title>
+          <directory>sections/section_22</directory>
         </section>
         <section>
-          <sectionid>2344</sectionid>
+          <sectionid>23</sectionid>
           <title>3</title>
-          <directory>sections/section_2344</directory>
-        </section>
-        <section>
-          <sectionid>2345</sectionid>
-          <title>4</title>
-          <directory>sections/section_2345</directory>
-        </section>
-        <section>
-          <sectionid>2346</sectionid>
-          <title>5</title>
-          <directory>sections/section_2346</directory>
-        </section>
-        <section>
-          <sectionid>2347</sectionid>
-          <title>6</title>
-          <directory>sections/section_2347</directory>
-        </section>
-        <section>
-          <sectionid>2348</sectionid>
-          <title>Screening &amp; Testing</title>
-          <directory>sections/section_2348</directory>
-        </section>
-        <section>
-          <sectionid>2349</sectionid>
-          <title>delete</title>
-          <directory>sections/section_2349</directory>
-        </section>
-        <section>
-          <sectionid>2350</sectionid>
-          <title>Delete</title>
-          <directory>sections/section_2350</directory>
-        </section>
-        <section>
-          <sectionid>2351</sectionid>
-          <title>delete</title>
-          <directory>sections/section_2351</directory>
-        </section>
-        <section>
-          <sectionid>2352</sectionid>
-          <title>delete</title>
-          <directory>sections/section_2352</directory>
-        </section>
-        <section>
-          <sectionid>2353</sectionid>
-          <title>delete</title>
-          <directory>sections/section_2353</directory>
-        </section>
-        <section>
-          <sectionid>2354</sectionid>
-          <title>delete</title>
-          <directory>sections/section_2354</directory>
-        </section>
-        <section>
-          <sectionid>2355</sectionid>
-          <title>delete</title>
-          <directory>sections/section_2355</directory>
-        </section>
-        <section>
-          <sectionid>2356</sectionid>
-          <title>delete</title>
-          <directory>sections/section_2356</directory>
-        </section>
-        <section>
-          <sectionid>2357</sectionid>
-          <title>delete</title>
-          <directory>sections/section_2357</directory>
-        </section>
-        <section>
-          <sectionid>2358</sectionid>
-          <title>delete</title>
-          <directory>sections/section_2358</directory>
-        </section>
-        <section>
-          <sectionid>2359</sectionid>
-          <title>delete</title>
-          <directory>sections/section_2359</directory>
-        </section>
-        <section>
-          <sectionid>2360</sectionid>
-          <title>delete</title>
-          <directory>sections/section_2360</directory>
-        </section>
-        <section>
-          <sectionid>2361</sectionid>
-          <title>delete</title>
-          <directory>sections/section_2361</directory>
-        </section>
-        <section>
-          <sectionid>2362</sectionid>
-          <title>delete</title>
-          <directory>sections/section_2362</directory>
-        </section>
-        <section>
-          <sectionid>2363</sectionid>
-          <title>delete</title>
-          <directory>sections/section_2363</directory>
-        </section>
-        <section>
-          <sectionid>2364</sectionid>
-          <title>delete</title>
-          <directory>sections/section_2364</directory>
-        </section>
-        <section>
-          <sectionid>2365</sectionid>
-          <title>delete</title>
-          <directory>sections/section_2365</directory>
-        </section>
-        <section>
-          <sectionid>2366</sectionid>
-          <title>delete</title>
-          <directory>sections/section_2366</directory>
-        </section>
-        <section>
-          <sectionid>2367</sectionid>
-          <title>Contributing factors that make learning English difficult for ELLs</title>
-          <directory>sections/section_2367</directory>
-        </section>
-        <section>
-          <sectionid>2368</sectionid>
-          <title>delete</title>
-          <directory>sections/section_2368</directory>
-        </section>
-        <section>
-          <sectionid>2369</sectionid>
-          <title>Guiding questions</title>
-          <directory>sections/section_2369</directory>
-        </section>
-        <section>
-          <sectionid>2370</sectionid>
-          <title>Characteristics of effective screening instruments</title>
-          <directory>sections/section_2370</directory>
-        </section>
-        <section>
-          <sectionid>2371</sectionid>
-          <title>English language learners terminology</title>
-          <directory>sections/section_2371</directory>
-        </section>
-        <section>
-          <sectionid>2372</sectionid>
-          <title>Sample LD screening questions</title>
-          <directory>sections/section_2372</directory>
-        </section>
-        <section>
-          <sectionid>2373</sectionid>
-          <title>Possible causes of screening inaccuracies</title>
-          <directory>sections/section_2373</directory>
-        </section>
-        <section>
-          <sectionid>2374</sectionid>
-          <title>Diagnostic evaluation reports</title>
-          <directory>sections/section_2374</directory>
-        </section>
-        <section>
-          <sectionid>2375</sectionid>
-          <title>Think about it – Identify number of ELLs in AEFLA-funded programs in the U.S. (cont.)</title>
-          <directory>sections/section_2375</directory>
-        </section>
-        <section>
-          <sectionid>2376</sectionid>
-          <title>Help for performing diagnostic evaluations</title>
-          <directory>sections/section_2376</directory>
-        </section>
-        <section>
-          <sectionid>2377</sectionid>
-          <title>Think about it – Identify number of ELLs in AEFLA-funded programs in the U.S. (cont.)</title>
-          <directory>sections/section_2377</directory>
-        </section>
-        <section>
-          <sectionid>2378</sectionid>
-          <title>Glossary</title>
-          <directory>sections/section_2378</directory>
+          <directory>sections/section_23</directory>
         </section>
       </sections>
       <course>
-        <courseid>237</courseid>
-        <title>L2A: ELLs </title>
+        <courseid>4</courseid>
+        <title>ELLPUB</title>
         <directory>course</directory>
       </course>
     </contents>
@@ -305,7 +84,7 @@
       <setting>
         <level>root</level>
         <name>filename</name>
-        <value>backup-moodle2-course-237-l2a_ells-20200123-1810-an.mbz</value>
+        <value>backup.mbz</value>
       </setting>
       <setting>
         <level>root</level>
@@ -315,7 +94,7 @@
       <setting>
         <level>root</level>
         <name>users</name>
-        <value>1</value>
+        <value>0</value>
       </setting>
       <setting>
         <level>root</level>
@@ -325,7 +104,7 @@
       <setting>
         <level>root</level>
         <name>role_assignments</name>
-        <value>1</value>
+        <value>0</value>
       </setting>
       <setting>
         <level>root</level>
@@ -340,37 +119,37 @@
       <setting>
         <level>root</level>
         <name>filters</name>
-        <value>1</value>
+        <value>0</value>
       </setting>
       <setting>
         <level>root</level>
         <name>comments</name>
-        <value>1</value>
+        <value>0</value>
       </setting>
       <setting>
         <level>root</level>
         <name>badges</name>
-        <value>1</value>
+        <value>0</value>
       </setting>
       <setting>
         <level>root</level>
         <name>calendarevents</name>
-        <value>1</value>
+        <value>0</value>
       </setting>
       <setting>
         <level>root</level>
         <name>userscompletion</name>
-        <value>1</value>
+        <value>0</value>
       </setting>
       <setting>
         <level>root</level>
         <name>logs</name>
-        <value>1</value>
+        <value>0</value>
       </setting>
       <setting>
         <level>root</level>
         <name>grade_histories</name>
-        <value>1</value>
+        <value>0</value>
       </setting>
       <setting>
         <level>root</level>
@@ -378,590 +157,88 @@
         <value>1</value>
       </setting>
       <setting>
-        <level>root</level>
-        <name>groups</name>
-        <value>1</value>
-      </setting>
-      <setting>
-        <level>root</level>
-        <name>competencies</name>
+        <level>section</level>
+        <section>section_14</section>
+        <name>section_14_included</name>
         <value>1</value>
       </setting>
       <setting>
         <level>section</level>
-        <section>section_2341</section>
-        <name>section_2341_included</name>
+        <section>section_14</section>
+        <name>section_14_userinfo</name>
+        <value>0</value>
+      </setting>
+      <setting>
+        <level>section</level>
+        <section>section_21</section>
+        <name>section_21_included</name>
         <value>1</value>
       </setting>
       <setting>
         <level>section</level>
-        <section>section_2341</section>
-        <name>section_2341_userinfo</name>
+        <section>section_21</section>
+        <name>section_21_userinfo</name>
+        <value>0</value>
+      </setting>
+      <setting>
+        <level>activity</level>
+        <activity>scorm_6</activity>
+        <name>scorm_6_included</name>
         <value>1</value>
       </setting>
       <setting>
         <level>activity</level>
-        <activity>forum_8451</activity>
-        <name>forum_8451_included</name>
+        <activity>scorm_6</activity>
+        <name>scorm_6_userinfo</name>
+        <value>0</value>
+      </setting>
+      <setting>
+        <level>activity</level>
+        <activity>url_3019</activity>
+        <name>url_3019_included</name>
         <value>1</value>
       </setting>
       <setting>
         <level>activity</level>
-        <activity>forum_8451</activity>
-        <name>forum_8451_userinfo</name>
-        <value>1</value>
+        <activity>url_3019</activity>
+        <name>url_3019_userinfo</name>
+        <value>0</value>
       </setting>
       <setting>
-        <level>section</level>
-        <section>section_2342</section>
-        <name>section_2342_included</name>
-        <value>1</value>
-      </setting>
-      <setting>
-        <level>section</level>
-        <section>section_2342</section>
-        <name>section_2342_userinfo</name>
+        <level>activity</level>
+        <activity>certificate_100</activity>
+        <name>certificate_100_included</name>
         <value>1</value>
       </setting>
       <setting>
         <level>activity</level>
-        <activity>book_8452</activity>
-        <name>book_8452_included</name>
-        <value>1</value>
-      </setting>
-      <setting>
-        <level>activity</level>
-        <activity>book_8452</activity>
-        <name>book_8452_userinfo</name>
-        <value>1</value>
-      </setting>
-      <setting>
-        <level>activity</level>
-        <activity>book_8453</activity>
-        <name>book_8453_included</name>
-        <value>1</value>
-      </setting>
-      <setting>
-        <level>activity</level>
-        <activity>book_8453</activity>
-        <name>book_8453_userinfo</name>
-        <value>1</value>
-      </setting>
-      <setting>
-        <level>activity</level>
-        <activity>book_8454</activity>
-        <name>book_8454_included</name>
-        <value>1</value>
-      </setting>
-      <setting>
-        <level>activity</level>
-        <activity>book_8454</activity>
-        <name>book_8454_userinfo</name>
-        <value>1</value>
-      </setting>
-      <setting>
-        <level>activity</level>
-        <activity>book_8455</activity>
-        <name>book_8455_included</name>
-        <value>1</value>
-      </setting>
-      <setting>
-        <level>activity</level>
-        <activity>book_8455</activity>
-        <name>book_8455_userinfo</name>
-        <value>1</value>
-      </setting>
-      <setting>
-        <level>activity</level>
-        <activity>book_8456</activity>
-        <name>book_8456_included</name>
-        <value>1</value>
-      </setting>
-      <setting>
-        <level>activity</level>
-        <activity>book_8456</activity>
-        <name>book_8456_userinfo</name>
-        <value>1</value>
-      </setting>
-      <setting>
-        <level>activity</level>
-        <activity>book_8457</activity>
-        <name>book_8457_included</name>
-        <value>1</value>
-      </setting>
-      <setting>
-        <level>activity</level>
-        <activity>book_8457</activity>
-        <name>book_8457_userinfo</name>
-        <value>1</value>
-      </setting>
-      <setting>
-        <level>activity</level>
-        <activity>quiz_8458</activity>
-        <name>quiz_8458_included</name>
-        <value>1</value>
-      </setting>
-      <setting>
-        <level>activity</level>
-        <activity>quiz_8458</activity>
-        <name>quiz_8458_userinfo</name>
-        <value>1</value>
-      </setting>
-      <setting>
-        <level>activity</level>
-        <activity>book_8459</activity>
-        <name>book_8459_included</name>
-        <value>1</value>
-      </setting>
-      <setting>
-        <level>activity</level>
-        <activity>book_8459</activity>
-        <name>book_8459_userinfo</name>
-        <value>1</value>
-      </setting>
-      <setting>
-        <level>activity</level>
-        <activity>certificate_8473</activity>
-        <name>certificate_8473_included</name>
-        <value>1</value>
-      </setting>
-      <setting>
-        <level>activity</level>
-        <activity>certificate_8473</activity>
-        <name>certificate_8473_userinfo</name>
-        <value>1</value>
-      </setting>
-      <setting>
-        <level>section</level>
-        <section>section_2343</section>
-        <name>section_2343_included</name>
-        <value>1</value>
-      </setting>
-      <setting>
-        <level>section</level>
-        <section>section_2343</section>
-        <name>section_2343_userinfo</name>
-        <value>1</value>
-      </setting>
-      <setting>
-        <level>section</level>
-        <section>section_2344</section>
-        <name>section_2344_included</name>
-        <value>1</value>
-      </setting>
-      <setting>
-        <level>section</level>
-        <section>section_2344</section>
-        <name>section_2344_userinfo</name>
-        <value>1</value>
-      </setting>
-      <setting>
-        <level>section</level>
-        <section>section_2345</section>
-        <name>section_2345_included</name>
-        <value>1</value>
-      </setting>
-      <setting>
-        <level>section</level>
-        <section>section_2345</section>
-        <name>section_2345_userinfo</name>
-        <value>1</value>
-      </setting>
-      <setting>
-        <level>section</level>
-        <section>section_2346</section>
-        <name>section_2346_included</name>
-        <value>1</value>
-      </setting>
-      <setting>
-        <level>section</level>
-        <section>section_2346</section>
-        <name>section_2346_userinfo</name>
-        <value>1</value>
-      </setting>
-      <setting>
-        <level>section</level>
-        <section>section_2347</section>
-        <name>section_2347_included</name>
-        <value>1</value>
-      </setting>
-      <setting>
-        <level>section</level>
-        <section>section_2347</section>
-        <name>section_2347_userinfo</name>
-        <value>1</value>
-      </setting>
-      <setting>
-        <level>section</level>
-        <section>section_2348</section>
-        <name>section_2348_included</name>
-        <value>1</value>
-      </setting>
-      <setting>
-        <level>section</level>
-        <section>section_2348</section>
-        <name>section_2348_userinfo</name>
-        <value>1</value>
-      </setting>
-      <setting>
-        <level>section</level>
-        <section>section_2349</section>
-        <name>section_2349_included</name>
-        <value>1</value>
-      </setting>
-      <setting>
-        <level>section</level>
-        <section>section_2349</section>
-        <name>section_2349_userinfo</name>
-        <value>1</value>
-      </setting>
-      <setting>
-        <level>section</level>
-        <section>section_2350</section>
-        <name>section_2350_included</name>
-        <value>1</value>
-      </setting>
-      <setting>
-        <level>section</level>
-        <section>section_2350</section>
-        <name>section_2350_userinfo</name>
-        <value>1</value>
-      </setting>
-      <setting>
-        <level>section</level>
-        <section>section_2351</section>
-        <name>section_2351_included</name>
-        <value>1</value>
-      </setting>
-      <setting>
-        <level>section</level>
-        <section>section_2351</section>
-        <name>section_2351_userinfo</name>
-        <value>1</value>
-      </setting>
-      <setting>
-        <level>section</level>
-        <section>section_2352</section>
-        <name>section_2352_included</name>
-        <value>1</value>
-      </setting>
-      <setting>
-        <level>section</level>
-        <section>section_2352</section>
-        <name>section_2352_userinfo</name>
-        <value>1</value>
-      </setting>
-      <setting>
-        <level>section</level>
-        <section>section_2353</section>
-        <name>section_2353_included</name>
-        <value>1</value>
-      </setting>
-      <setting>
-        <level>section</level>
-        <section>section_2353</section>
-        <name>section_2353_userinfo</name>
-        <value>1</value>
-      </setting>
-      <setting>
-        <level>section</level>
-        <section>section_2354</section>
-        <name>section_2354_included</name>
-        <value>1</value>
-      </setting>
-      <setting>
-        <level>section</level>
-        <section>section_2354</section>
-        <name>section_2354_userinfo</name>
-        <value>1</value>
-      </setting>
-      <setting>
-        <level>section</level>
-        <section>section_2355</section>
-        <name>section_2355_included</name>
-        <value>1</value>
-      </setting>
-      <setting>
-        <level>section</level>
-        <section>section_2355</section>
-        <name>section_2355_userinfo</name>
-        <value>1</value>
-      </setting>
-      <setting>
-        <level>section</level>
-        <section>section_2356</section>
-        <name>section_2356_included</name>
-        <value>1</value>
-      </setting>
-      <setting>
-        <level>section</level>
-        <section>section_2356</section>
-        <name>section_2356_userinfo</name>
-        <value>1</value>
-      </setting>
-      <setting>
-        <level>section</level>
-        <section>section_2357</section>
-        <name>section_2357_included</name>
-        <value>1</value>
-      </setting>
-      <setting>
-        <level>section</level>
-        <section>section_2357</section>
-        <name>section_2357_userinfo</name>
-        <value>1</value>
-      </setting>
-      <setting>
-        <level>section</level>
-        <section>section_2358</section>
-        <name>section_2358_included</name>
-        <value>1</value>
-      </setting>
-      <setting>
-        <level>section</level>
-        <section>section_2358</section>
-        <name>section_2358_userinfo</name>
-        <value>1</value>
-      </setting>
-      <setting>
-        <level>section</level>
-        <section>section_2359</section>
-        <name>section_2359_included</name>
-        <value>1</value>
-      </setting>
-      <setting>
-        <level>section</level>
-        <section>section_2359</section>
-        <name>section_2359_userinfo</name>
-        <value>1</value>
-      </setting>
-      <setting>
-        <level>section</level>
-        <section>section_2360</section>
-        <name>section_2360_included</name>
-        <value>1</value>
-      </setting>
-      <setting>
-        <level>section</level>
-        <section>section_2360</section>
-        <name>section_2360_userinfo</name>
-        <value>1</value>
-      </setting>
-      <setting>
-        <level>section</level>
-        <section>section_2361</section>
-        <name>section_2361_included</name>
-        <value>1</value>
-      </setting>
-      <setting>
-        <level>section</level>
-        <section>section_2361</section>
-        <name>section_2361_userinfo</name>
-        <value>1</value>
-      </setting>
-      <setting>
-        <level>section</level>
-        <section>section_2362</section>
-        <name>section_2362_included</name>
-        <value>1</value>
-      </setting>
-      <setting>
-        <level>section</level>
-        <section>section_2362</section>
-        <name>section_2362_userinfo</name>
-        <value>1</value>
-      </setting>
-      <setting>
-        <level>section</level>
-        <section>section_2363</section>
-        <name>section_2363_included</name>
-        <value>1</value>
-      </setting>
-      <setting>
-        <level>section</level>
-        <section>section_2363</section>
-        <name>section_2363_userinfo</name>
-        <value>1</value>
-      </setting>
-      <setting>
-        <level>section</level>
-        <section>section_2364</section>
-        <name>section_2364_included</name>
-        <value>1</value>
-      </setting>
-      <setting>
-        <level>section</level>
-        <section>section_2364</section>
-        <name>section_2364_userinfo</name>
-        <value>1</value>
-      </setting>
-      <setting>
-        <level>section</level>
-        <section>section_2365</section>
-        <name>section_2365_included</name>
-        <value>1</value>
-      </setting>
-      <setting>
-        <level>section</level>
-        <section>section_2365</section>
-        <name>section_2365_userinfo</name>
-        <value>1</value>
-      </setting>
-      <setting>
-        <level>section</level>
-        <section>section_2366</section>
-        <name>section_2366_included</name>
-        <value>1</value>
-      </setting>
-      <setting>
-        <level>section</level>
-        <section>section_2366</section>
-        <name>section_2366_userinfo</name>
-        <value>1</value>
+        <activity>certificate_100</activity>
+        <name>certificate_100_userinfo</name>
+        <value>0</value>
       </setting>
       <setting>
         <level>section</level>
-        <section>section_2367</section>
-        <name>section_2367_included</name>
+        <section>section_22</section>
+        <name>section_22_included</name>
         <value>1</value>
       </setting>
       <setting>
         <level>section</level>
-        <section>section_2367</section>
-        <name>section_2367_userinfo</name>
-        <value>1</value>
-      </setting>
-      <setting>
-        <level>section</level>
-        <section>section_2368</section>
-        <name>section_2368_included</name>
-        <value>1</value>
-      </setting>
-      <setting>
-        <level>section</level>
-        <section>section_2368</section>
-        <name>section_2368_userinfo</name>
-        <value>1</value>
-      </setting>
-      <setting>
-        <level>section</level>
-        <section>section_2369</section>
-        <name>section_2369_included</name>
-        <value>1</value>
-      </setting>
-      <setting>
-        <level>section</level>
-        <section>section_2369</section>
-        <name>section_2369_userinfo</name>
-        <value>1</value>
-      </setting>
-      <setting>
-        <level>section</level>
-        <section>section_2370</section>
-        <name>section_2370_included</name>
-        <value>1</value>
-      </setting>
-      <setting>
-        <level>section</level>
-        <section>section_2370</section>
-        <name>section_2370_userinfo</name>
-        <value>1</value>
-      </setting>
-      <setting>
-        <level>section</level>
-        <section>section_2371</section>
-        <name>section_2371_included</name>
-        <value>1</value>
-      </setting>
-      <setting>
-        <level>section</level>
-        <section>section_2371</section>
-        <name>section_2371_userinfo</name>
-        <value>1</value>
-      </setting>
-      <setting>
-        <level>section</level>
-        <section>section_2372</section>
-        <name>section_2372_included</name>
-        <value>1</value>
-      </setting>
-      <setting>
-        <level>section</level>
-        <section>section_2372</section>
-        <name>section_2372_userinfo</name>
-        <value>1</value>
+        <section>section_22</section>
+        <name>section_22_userinfo</name>
+        <value>0</value>
       </setting>
       <setting>
         <level>section</level>
-        <section>section_2373</section>
-        <name>section_2373_included</name>
+        <section>section_23</section>
+        <name>section_23_included</name>
         <value>1</value>
       </setting>
       <setting>
         <level>section</level>
-        <section>section_2373</section>
-        <name>section_2373_userinfo</name>
-        <value>1</value>
-      </setting>
-      <setting>
-        <level>section</level>
-        <section>section_2374</section>
-        <name>section_2374_included</name>
-        <value>1</value>
-      </setting>
-      <setting>
-        <level>section</level>
-        <section>section_2374</section>
-        <name>section_2374_userinfo</name>
-        <value>1</value>
-      </setting>
-      <setting>
-        <level>section</level>
-        <section>section_2375</section>
-        <name>section_2375_included</name>
-        <value>1</value>
-      </setting>
-      <setting>
-        <level>section</level>
-        <section>section_2375</section>
-        <name>section_2375_userinfo</name>
-        <value>1</value>
-      </setting>
-      <setting>
-        <level>section</level>
-        <section>section_2376</section>
-        <name>section_2376_included</name>
-        <value>1</value>
-      </setting>
-      <setting>
-        <level>section</level>
-        <section>section_2376</section>
-        <name>section_2376_userinfo</name>
-        <value>1</value>
-      </setting>
-      <setting>
-        <level>section</level>
-        <section>section_2377</section>
-        <name>section_2377_included</name>
-        <value>1</value>
-      </setting>
-      <setting>
-        <level>section</level>
-        <section>section_2377</section>
-        <name>section_2377_userinfo</name>
-        <value>1</value>
-      </setting>
-      <setting>
-        <level>section</level>
-        <section>section_2378</section>
-        <name>section_2378_included</name>
-        <value>1</value>
-      </setting>
-      <setting>
-        <level>section</level>
-        <section>section_2378</section>
-        <name>section_2378_userinfo</name>
-        <value>1</value>
+        <section>section_23</section>
+        <name>section_23_userinfo</name>
+        <value>0</value>
       </setting>
     </settings>
   </information>
