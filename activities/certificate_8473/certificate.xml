@@ -1,0 +1,489 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="198" moduleid="8473" modulename="certificate" contextid="35930">
+  <certificate id="198">
+    <name>L2A: Learning Disabilities and English Language Learners Certificate of Completion</name>
+    <intro></intro>
+    <introformat>1</introformat>
+    <emailteachers>0</emailteachers>
+    <emailothers></emailothers>
+    <savecert>1</savecert>
+    <reportcert>0</reportcert>
+    <delivery>0</delivery>
+    <certificatetype>lincs</certificatetype>
+    <orientation>L</orientation>
+    <borderstyle>0</borderstyle>
+    <bordercolor>0</bordercolor>
+    <printwmark>0</printwmark>
+    <printdate>1</printdate>
+    <datefmt>1</datefmt>
+    <printnumber>0</printnumber>
+    <printgrade>0</printgrade>
+    <gradefmt>1</gradefmt>
+    <printoutcome>0</printoutcome>
+    <printhours>1</printhours>
+    <printteacher>0</printteacher>
+    <customtext></customtext>
+    <printsignature>Cheryl-Keenan.png</printsignature>
+    <printseal>LINCS-Logo-Color-small.png</printseal>
+    <timecreated>1565820608</timecreated>
+    <timemodified>1565881768</timemodified>
+    <issues>
+      <issue id="23058">
+        <certificateid>198</certificateid>
+        <userid>12146</userid>
+        <timecreated>1565821288</timecreated>
+        <code>hEv0tsiXXw</code>
+      </issue>
+      <issue id="23061">
+        <certificateid>198</certificateid>
+        <userid>11203</userid>
+        <timecreated>1565879618</timecreated>
+        <code>d6SaDiRitx</code>
+      </issue>
+      <issue id="23062">
+        <certificateid>198</certificateid>
+        <userid>13263</userid>
+        <timecreated>1565880895</timecreated>
+        <code>6xmeNcIwrt</code>
+      </issue>
+      <issue id="23063">
+        <certificateid>198</certificateid>
+        <userid>24</userid>
+        <timecreated>1565882261</timecreated>
+        <code>jZG1ZFwR64</code>
+      </issue>
+      <issue id="23064">
+        <certificateid>198</certificateid>
+        <userid>18</userid>
+        <timecreated>1565882461</timecreated>
+        <code>vC7ZnKxhGq</code>
+      </issue>
+      <issue id="23071">
+        <certificateid>198</certificateid>
+        <userid>18494</userid>
+        <timecreated>1565899630</timecreated>
+        <code>ec4wdk22eD</code>
+      </issue>
+      <issue id="23114">
+        <certificateid>198</certificateid>
+        <userid>18727</userid>
+        <timecreated>1566241276</timecreated>
+        <code>93mnZka8jM</code>
+      </issue>
+      <issue id="23263">
+        <certificateid>198</certificateid>
+        <userid>22441</userid>
+        <timecreated>1567622930</timecreated>
+        <code>DtMrns3tYj</code>
+      </issue>
+      <issue id="23344">
+        <certificateid>198</certificateid>
+        <userid>19885</userid>
+        <timecreated>1568380100</timecreated>
+        <code>6lUcxELZeu</code>
+      </issue>
+      <issue id="23388">
+        <certificateid>198</certificateid>
+        <userid>22549</userid>
+        <timecreated>1568822201</timecreated>
+        <code>8F4ae1yAyr</code>
+      </issue>
+      <issue id="23392">
+        <certificateid>198</certificateid>
+        <userid>22431</userid>
+        <timecreated>1568824348</timecreated>
+        <code>TK9NypnsN4</code>
+      </issue>
+      <issue id="23401">
+        <certificateid>198</certificateid>
+        <userid>2500</userid>
+        <timecreated>1568900311</timecreated>
+        <code>dv0B6anA9c</code>
+      </issue>
+      <issue id="23412">
+        <certificateid>198</certificateid>
+        <userid>22568</userid>
+        <timecreated>1569014372</timecreated>
+        <code>gJ1NJtQKzX</code>
+      </issue>
+      <issue id="23439">
+        <certificateid>198</certificateid>
+        <userid>22581</userid>
+        <timecreated>1569340816</timecreated>
+        <code>fU2z5iN6CA</code>
+      </issue>
+      <issue id="23449">
+        <certificateid>198</certificateid>
+        <userid>22592</userid>
+        <timecreated>1569358265</timecreated>
+        <code>VUmL9qLh0Q</code>
+      </issue>
+      <issue id="23470">
+        <certificateid>198</certificateid>
+        <userid>19982</userid>
+        <timecreated>1569520376</timecreated>
+        <code>VQFeDTfz1a</code>
+      </issue>
+      <issue id="23547">
+        <certificateid>198</certificateid>
+        <userid>21933</userid>
+        <timecreated>1570485841</timecreated>
+        <code>SPZivVBv2D</code>
+      </issue>
+      <issue id="23554">
+        <certificateid>198</certificateid>
+        <userid>15535</userid>
+        <timecreated>1570560045</timecreated>
+        <code>WfTCvyFh0b</code>
+      </issue>
+      <issue id="23567">
+        <certificateid>198</certificateid>
+        <userid>22586</userid>
+        <timecreated>1570731301</timecreated>
+        <code>0qyuRmbpjn</code>
+      </issue>
+      <issue id="23613">
+        <certificateid>198</certificateid>
+        <userid>15538</userid>
+        <timecreated>1571247075</timecreated>
+        <code>dcSXjeZ3Rs</code>
+      </issue>
+      <issue id="23659">
+        <certificateid>198</certificateid>
+        <userid>22868</userid>
+        <timecreated>1571782619</timecreated>
+        <code>AEukoyUZpY</code>
+      </issue>
+      <issue id="23720">
+        <certificateid>198</certificateid>
+        <userid>22910</userid>
+        <timecreated>1572048473</timecreated>
+        <code>TWhNWHC6Lu</code>
+      </issue>
+      <issue id="23747">
+        <certificateid>198</certificateid>
+        <userid>22921</userid>
+        <timecreated>1572282156</timecreated>
+        <code>8I5E0mmDK6</code>
+      </issue>
+      <issue id="23748">
+        <certificateid>198</certificateid>
+        <userid>22923</userid>
+        <timecreated>1572284345</timecreated>
+        <code>ceeqZbFsb2</code>
+      </issue>
+      <issue id="23778">
+        <certificateid>198</certificateid>
+        <userid>22928</userid>
+        <timecreated>1572357965</timecreated>
+        <code>kGYTQRTX7w</code>
+      </issue>
+      <issue id="23797">
+        <certificateid>198</certificateid>
+        <userid>22934</userid>
+        <timecreated>1572385190</timecreated>
+        <code>uPOGLSpRGX</code>
+      </issue>
+      <issue id="23803">
+        <certificateid>198</certificateid>
+        <userid>22943</userid>
+        <timecreated>1572457628</timecreated>
+        <code>ymlbHtOCKT</code>
+      </issue>
+      <issue id="23805">
+        <certificateid>198</certificateid>
+        <userid>22929</userid>
+        <timecreated>1572459019</timecreated>
+        <code>siwwFUn3F9</code>
+      </issue>
+      <issue id="23810">
+        <certificateid>198</certificateid>
+        <userid>22924</userid>
+        <timecreated>1572462341</timecreated>
+        <code>mqfdgIYpyM</code>
+      </issue>
+      <issue id="23825">
+        <certificateid>198</certificateid>
+        <userid>12394</userid>
+        <timecreated>1572539940</timecreated>
+        <code>nub37yyC0p</code>
+      </issue>
+      <issue id="23840">
+        <certificateid>198</certificateid>
+        <userid>19665</userid>
+        <timecreated>1572553670</timecreated>
+        <code>OijGuHAEgT</code>
+      </issue>
+      <issue id="23849">
+        <certificateid>198</certificateid>
+        <userid>22951</userid>
+        <timecreated>1572640951</timecreated>
+        <code>iSAAGyUshG</code>
+      </issue>
+      <issue id="23894">
+        <certificateid>198</certificateid>
+        <userid>21948</userid>
+        <timecreated>1573058376</timecreated>
+        <code>EGI8JUW38x</code>
+      </issue>
+      <issue id="23900">
+        <certificateid>198</certificateid>
+        <userid>22941</userid>
+        <timecreated>1573066112</timecreated>
+        <code>aSrw5phYMW</code>
+      </issue>
+      <issue id="23907">
+        <certificateid>198</certificateid>
+        <userid>22925</userid>
+        <timecreated>1573148960</timecreated>
+        <code>qBJGGMWUPC</code>
+      </issue>
+      <issue id="23939">
+        <certificateid>198</certificateid>
+        <userid>22940</userid>
+        <timecreated>1573426832</timecreated>
+        <code>jGKGLb7zM9</code>
+      </issue>
+      <issue id="23953">
+        <certificateid>198</certificateid>
+        <userid>22358</userid>
+        <timecreated>1573494927</timecreated>
+        <code>yA8r2G9qzn</code>
+      </issue>
+      <issue id="23957">
+        <certificateid>198</certificateid>
+        <userid>22909</userid>
+        <timecreated>1573502354</timecreated>
+        <code>CHLsO5DHrK</code>
+      </issue>
+      <issue id="23971">
+        <certificateid>198</certificateid>
+        <userid>23022</userid>
+        <timecreated>1573577719</timecreated>
+        <code>EpGhtk4hh7</code>
+      </issue>
+      <issue id="23982">
+        <certificateid>198</certificateid>
+        <userid>23028</userid>
+        <timecreated>1573605427</timecreated>
+        <code>bdF2Dxv9je</code>
+      </issue>
+      <issue id="24000">
+        <certificateid>198</certificateid>
+        <userid>22498</userid>
+        <timecreated>1573668470</timecreated>
+        <code>WSbNrSGh1C</code>
+      </issue>
+      <issue id="24035">
+        <certificateid>198</certificateid>
+        <userid>5080</userid>
+        <timecreated>1573770896</timecreated>
+        <code>SYs3lNHCca</code>
+      </issue>
+      <issue id="24054">
+        <certificateid>198</certificateid>
+        <userid>22364</userid>
+        <timecreated>1573925397</timecreated>
+        <code>bacxRDDgDA</code>
+      </issue>
+      <issue id="24075">
+        <certificateid>198</certificateid>
+        <userid>23027</userid>
+        <timecreated>1574093630</timecreated>
+        <code>Eq5AFUq84q</code>
+      </issue>
+      <issue id="24087">
+        <certificateid>198</certificateid>
+        <userid>23021</userid>
+        <timecreated>1574111977</timecreated>
+        <code>ikLhebsg67</code>
+      </issue>
+      <issue id="24093">
+        <certificateid>198</certificateid>
+        <userid>23053</userid>
+        <timecreated>1574182679</timecreated>
+        <code>O8fFIXHnIH</code>
+      </issue>
+      <issue id="24125">
+        <certificateid>198</certificateid>
+        <userid>22930</userid>
+        <timecreated>1574289890</timecreated>
+        <code>Dl1c07DVGI</code>
+      </issue>
+      <issue id="24128">
+        <certificateid>198</certificateid>
+        <userid>22984</userid>
+        <timecreated>1574290703</timecreated>
+        <code>A9ImVbSGZk</code>
+      </issue>
+      <issue id="24136">
+        <certificateid>198</certificateid>
+        <userid>23026</userid>
+        <timecreated>1574354807</timecreated>
+        <code>gyKB8fQ3k9</code>
+      </issue>
+      <issue id="24140">
+        <certificateid>198</certificateid>
+        <userid>2650</userid>
+        <timecreated>1574362173</timecreated>
+        <code>WHpAA04cu1</code>
+      </issue>
+      <issue id="24151">
+        <certificateid>198</certificateid>
+        <userid>23024</userid>
+        <timecreated>1574371586</timecreated>
+        <code>qQsU5YpIDR</code>
+      </issue>
+      <issue id="24154">
+        <certificateid>198</certificateid>
+        <userid>22245</userid>
+        <timecreated>1574378320</timecreated>
+        <code>J1fc3BEGvY</code>
+      </issue>
+      <issue id="24155">
+        <certificateid>198</certificateid>
+        <userid>22989</userid>
+        <timecreated>1574378321</timecreated>
+        <code>231WzEwTZz</code>
+      </issue>
+      <issue id="24210">
+        <certificateid>198</certificateid>
+        <userid>23071</userid>
+        <timecreated>1574711445</timecreated>
+        <code>1LYSh1H1u0</code>
+      </issue>
+      <issue id="24249">
+        <certificateid>198</certificateid>
+        <userid>23019</userid>
+        <timecreated>1575149961</timecreated>
+        <code>i4U4ejwG9k</code>
+      </issue>
+      <issue id="24254">
+        <certificateid>198</certificateid>
+        <userid>22636</userid>
+        <timecreated>1575162068</timecreated>
+        <code>5mEt8Ml8w7</code>
+      </issue>
+      <issue id="24294">
+        <certificateid>198</certificateid>
+        <userid>23073</userid>
+        <timecreated>1575563878</timecreated>
+        <code>LvQ7i4EP0X</code>
+      </issue>
+      <issue id="24329">
+        <certificateid>198</certificateid>
+        <userid>22922</userid>
+        <timecreated>1575923553</timecreated>
+        <code>B30XIc1AU8</code>
+      </issue>
+      <issue id="24333">
+        <certificateid>198</certificateid>
+        <userid>23023</userid>
+        <timecreated>1575926986</timecreated>
+        <code>XCGzIYglhL</code>
+      </issue>
+      <issue id="24338">
+        <certificateid>198</certificateid>
+        <userid>22901</userid>
+        <timecreated>1575929962</timecreated>
+        <code>4GJOPtOIaK</code>
+      </issue>
+      <issue id="24350">
+        <certificateid>198</certificateid>
+        <userid>21705</userid>
+        <timecreated>1575940602</timecreated>
+        <code>7rNUQsAPLW</code>
+      </issue>
+      <issue id="24355">
+        <certificateid>198</certificateid>
+        <userid>23041</userid>
+        <timecreated>1575995387</timecreated>
+        <code>E8yRYOtSAK</code>
+      </issue>
+      <issue id="24361">
+        <certificateid>198</certificateid>
+        <userid>22411</userid>
+        <timecreated>1576007020</timecreated>
+        <code>S0HxTJ8eI2</code>
+      </issue>
+      <issue id="24370">
+        <certificateid>198</certificateid>
+        <userid>23025</userid>
+        <timecreated>1576016313</timecreated>
+        <code>wn0UfGpBDL</code>
+      </issue>
+      <issue id="24388">
+        <certificateid>198</certificateid>
+        <userid>23224</userid>
+        <timecreated>1576081978</timecreated>
+        <code>HZGPeqF0Ci</code>
+      </issue>
+      <issue id="24403">
+        <certificateid>198</certificateid>
+        <userid>23209</userid>
+        <timecreated>1576096323</timecreated>
+        <code>hL58Vw40C4</code>
+      </issue>
+      <issue id="24414">
+        <certificateid>198</certificateid>
+        <userid>23089</userid>
+        <timecreated>1576099077</timecreated>
+        <code>Ll9ZsHMz02</code>
+      </issue>
+      <issue id="24419">
+        <certificateid>198</certificateid>
+        <userid>23208</userid>
+        <timecreated>1576100768</timecreated>
+        <code>VCjATq39Xb</code>
+      </issue>
+      <issue id="24533">
+        <certificateid>198</certificateid>
+        <userid>23290</userid>
+        <timecreated>1577123681</timecreated>
+        <code>aCkSftuOdU</code>
+      </issue>
+      <issue id="24574">
+        <certificateid>198</certificateid>
+        <userid>23214</userid>
+        <timecreated>1577551350</timecreated>
+        <code>w24Ui6tLgQ</code>
+      </issue>
+      <issue id="24591">
+        <certificateid>198</certificateid>
+        <userid>13427</userid>
+        <timecreated>1577752886</timecreated>
+        <code>5RKCDBrFPU</code>
+      </issue>
+      <issue id="24675">
+        <certificateid>198</certificateid>
+        <userid>23361</userid>
+        <timecreated>1578519515</timecreated>
+        <code>hTux9ueKk2</code>
+      </issue>
+      <issue id="24682">
+        <certificateid>198</certificateid>
+        <userid>14502</userid>
+        <timecreated>1578597615</timecreated>
+        <code>aMVdDSxpvf</code>
+      </issue>
+      <issue id="24692">
+        <certificateid>198</certificateid>
+        <userid>23388</userid>
+        <timecreated>1578762202</timecreated>
+        <code>2W408rQu7g</code>
+      </issue>
+      <issue id="24723">
+        <certificateid>198</certificateid>
+        <userid>17226</userid>
+        <timecreated>1579107979</timecreated>
+        <code>nxpeYgrlXB</code>
+      </issue>
+      <issue id="24726">
+        <certificateid>198</certificateid>
+        <userid>21730</userid>
+        <timecreated>1579118236</timecreated>
+        <code>xOEqc3AyRS</code>
+      </issue>
+    </issues>
+  </certificate>
+</activity>

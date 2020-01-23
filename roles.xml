@@ -1,11 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <roles_definition>
+  <role id="1">
+    <name>Manager</name>
+    <shortname>manager</shortname>
+    <nameincourse>$@NULL@$</nameincourse>
+    <description>Managers can access course and modify them, they usually do not participate in courses.</description>
+    <sortorder>1</sortorder>
+    <archetype>manager</archetype>
+  </role>
   <role id="5">
     <name>Student</name>
     <shortname>student</shortname>
     <nameincourse>$@NULL@$</nameincourse>
     <description>Students generally have fewer privileges within a course.</description>
     <sortorder>6</sortorder>
+    <archetype>student</archetype>
+  </role>
+  <role id="11">
+    <name>View Hidden Course</name>
+    <shortname>view-hidden-course</shortname>
+    <nameincourse>$@NULL@$</nameincourse>
+    <description>&lt;p&gt;This role is to be granted within facilitator lead courses to teachers and students enrolled in that course.  This should NOT be assigned globally for all courses, only on a course by course basis.&lt;/p&gt;</description>
+    <sortorder>11</sortorder>
     <archetype>student</archetype>
   </role>
 </roles_definition>

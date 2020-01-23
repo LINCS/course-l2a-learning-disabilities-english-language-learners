@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="196" moduleid="8457" modulename="book" contextid="35833">
+  <book id="196">
+    <name>Reflect</name>
+    <intro>&lt;p&gt;Throughout this lesson, we've explored four guiding questions related to issues surrounding ELLs.&lt;/p&gt;</intro>
+    <introformat>1</introformat>
+    <numbering>1</numbering>
+    <navstyle>1</navstyle>
+    <customtitles>0</customtitles>
+    <timecreated>1547494422</timecreated>
+    <timemodified>1547495080</timemodified>
+    <chapters>
+      <chapter id="1321">
+        <pagenum>1</pagenum>
+        <subchapter>0</subchapter>
+        <title>Review of guiding questions</title>
+        <content>&lt;p&gt;Throughout this lesson, we've explored four guiding questions related to issues surrounding ELLs.&lt;/p&gt;
+&lt;p&gt;Specifically, we:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;uncovered the prevalence of ELLs&lt;/li&gt;
+&lt;li&gt;looked at the difficulties associated with screening and testing ELLs for LD and&lt;/li&gt;
+&lt;li&gt;discussed the different items to be considered when exploring the option of testing ELLs for LD; and&lt;/li&gt;
+&lt;li&gt;reviewed instructional strategies and accommodations for teaching ELLs with possible or identified LD.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;img src="@@PLUGINFILE@@/prevalence.png" alt="How prevalent are ELLs in AEFLA-funded programs in the United States?" width="223" height="212" class="img-responsive atto_image_button_text-bottom"&gt;&lt;img src="@@PLUGINFILE@@/difficulties.png" alt="What are the difficulties associated with screening and testing ELLs for LD?" width="223" height="212" class="img-responsive atto_image_button_text-bottom"&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="@@PLUGINFILE@@/explore.png" width="223" height="212" alt="If a learner and instructor choose to explore the option of testing for LD, what considerations should an instructor bear in mind?"&gt;&lt;img src="@@PLUGINFILE@@/strategies%20%281%29.png" width="223" height="212" alt="What are some strategies for teaching ELLs with possible or identified LD?"&gt;&lt;/p&gt;</content>
+        <contentformat>1</contentformat>
+        <hidden>0</hidden>
+        <timemodified>1565808307</timemodified>
+        <importsrc></importsrc>
+      </chapter>
+      <chapter id="1322">
+        <pagenum>2</pagenum>
+        <subchapter>0</subchapter>
+        <title>Activity: Share your thoughts</title>
+        <content>&lt;p&gt;Take some time to reflect on the concepts and ideas presented in &lt;i&gt;Learning Disabilities and English Language Learners&lt;/i&gt; and your plans for acting on this information by answering the following questions:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Of all the concepts and ideas discussed in this course:
+&lt;ul&gt;
+&lt;li&gt;Which were new to you?&lt;/li&gt;
+&lt;li&gt;Which ideas stood out as most important for you and your practice in supporting adult ELLs with LD in your classroom?&lt;/li&gt;
+&lt;li&gt;What are some specific strategies from this course that you feel you can readily incorporate to help your adult ELL students with LD?&lt;br /&gt;&lt;br /&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;What other strategies or LD screening tools have you used, and how effective were they?&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Please share the specific strategies and tools you plan to incorporate into your practice in the LINCS Disabilities in Adult Education Group before moving on.&lt;/p&gt;</content>
+        <contentformat>1</contentformat>
+        <hidden>0</hidden>
+        <timemodified>1547495039</timemodified>
+        <importsrc></importsrc>
+      </chapter>
+    </chapters>
+    <chaptertags>
+    </chaptertags>
+  </book>
+</activity>
