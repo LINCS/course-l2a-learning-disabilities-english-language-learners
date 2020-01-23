@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="191" moduleid="8452" modulename="book" contextid="35828">
+  <book id="191">
+    <name>Introduction</name>
+    <intro>&lt;p class="Subhead"&gt;&lt;strong&gt;Welcome to this LINCS Course&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Welcome to the &lt;i&gt;Learning Disabilities and English Language Learners&lt;/i&gt; course, a research-based training on serving adult English language learners with learning disabilities.  This self-paced online course is one of eight courses in the Learning to Achieve series. The Learning to Achieve suite of resources, available through LINCS, is designed to build teacher effectiveness in providing instruction for adults with learning disabilities.&lt;/p&gt;
+&lt;p&gt;This course was updated and funded in whole with Federal funds from the U.S. Department of Education under the LINCS Resource Collection contract number ED-ESE-15-A-0012/0003 with Manhattan Strategy Group. Monique Faulkner served as the contracting officer’s representative. This course was originally developed with federal funds from the National Institutes for Literacy. The content of this course does not necessarily reflect the views or policies of the U.S. Department of Education nor does the mention of trade names, commercial products, or organizations imply endorsement by the U.S. Government.&lt;/p&gt;</intro>
+    <introformat>1</introformat>
+    <numbering>1</numbering>
+    <navstyle>1</navstyle>
+    <customtitles>0</customtitles>
+    <timecreated>1547479233</timecreated>
+    <timemodified>1547479901</timemodified>
+    <chapters>
+      <chapter id="1292">
+        <pagenum>1</pagenum>
+        <subchapter>0</subchapter>
+        <title>Welcome</title>
+        <content>&lt;p class="Subhead"&gt;Join the LINCS Community and participate in course discussions&lt;/p&gt;
+&lt;p&gt;This course is designed for teachers of adult English language learners (ELLs) with learning disabilities (LD). As with all LINCS courses, this course includes opportunities to connect with other adult education practitioners interested in identifying, screening, and evaluating adult ELLs for LD. If you haven’t already done so, take a moment to register as a member of the&amp;nbsp;&lt;a href="https://community.lincs.ed.gov/" target="_blank"&gt;LINCS Community&lt;/a&gt;&amp;nbsp;and participate in the discussions embedded throughout this course. The discussions provide an open forum to share your thoughts, ideas, and questions with other adult education practitioners.&lt;/p&gt;
+&lt;p&gt;Throughout this course, you will have the opportunity to share your stories and insights as you learn about the various screening methods and strategies for teaching adult ELLs with LD. This is a great opportunity to share and learn from others. We encourage you to participate!&lt;/p&gt;
+&lt;p&gt;&lt;img style="max-width: 100%; height: auto;" src="@@PLUGINFILE@@/screenshot.PNG" alt="Screenshot of the LINCS community homepage" width="550" height="450" role="presentation" class="atto_image_button_text-bottom"&gt;&lt;/p&gt;</content>
+        <contentformat>1</contentformat>
+        <hidden>0</hidden>
+        <timemodified>1551242723</timemodified>
+        <importsrc></importsrc>
+      </chapter>
+      <chapter id="1293">
+        <pagenum>2</pagenum>
+        <subchapter>0</subchapter>
+        <title>Overview and objectives</title>
+        <content>&lt;p&gt;In this lesson, we will be looking at the challenges of learning English as a foreign language, and the difficulties associated with identifying learning disabilities in ELLs. This course draws upon available research on serving ELLs of all ages with learning disabilities. Let's start by reviewing the learning goals of this lesson.&lt;/p&gt;
+&lt;p class="Subhead"&gt;Upon completion of this lesson, you will be able to:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;recognize the prevalence of ELLs in Adult Education and Family Literacy Act&amp;nbsp;(AEFLA)-funded programs in the United States;&lt;/li&gt;
+&lt;li&gt;identify key considerations when screening and testing ELLs who appear to have a learning disability; and&lt;/li&gt;
+&lt;li&gt;describe instructional classroom strategies and accommodations for teaching ELLs with learning disabilities.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Please allow approximately two hours to complete this course. However, you are free to leave the session at any time. When you exit the courseware, a bookmark is automatically placed at your last location to allow you to pick up where you left off when you return.&lt;/p&gt;
+&lt;h4&gt;&lt;span&gt;Navigation &lt;/span&gt;&lt;/h4&gt;
+&lt;p&gt;The course is divided up into several sections: &lt;i&gt;Introduction, Prevalence of ELLs, Screening &amp;amp; Testing, Instructional Strategies &amp;amp; Accommodations&lt;/i&gt; and &lt;i&gt;Course&amp;nbsp;Conclusion&amp;nbsp;and Resources&lt;/i&gt;. You may navigate through the course by using the forward arrows when available, by going back to the main course page, or via the Table of Contents on the right side of your screen.&lt;/p&gt;</content>
+        <contentformat>1</contentformat>
+        <hidden>0</hidden>
+        <timemodified>1551122581</timemodified>
+        <importsrc></importsrc>
+      </chapter>
+      <chapter id="1294">
+        <pagenum>3</pagenum>
+        <subchapter>0</subchapter>
+        <title>Guiding questions</title>
+        <content>&lt;p&gt;To help guide our learning, we will refer to key questions: &lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;How prevalent are ELLs in the United States?&lt;/li&gt;
+&lt;li&gt;What are the difficulties associated with screening and testing ELLs for learning disabilities? &lt;/li&gt;
+&lt;li&gt;If a learner and instructor choose to explore the option of testing for learning disabilities, what considerations should an instructor bear in mind?&lt;/li&gt;
+&lt;li&gt;And what are some strategies for teaching ELLs who exhibit behaviors suggestive of learning disabilities? &lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;But before we explore the answers to these questions, we'll continue by reviewing some key terms that are used in this field.&lt;/p&gt;</content>
+        <contentformat>1</contentformat>
+        <hidden>0</hidden>
+        <timemodified>1547480044</timemodified>
+        <importsrc></importsrc>
+      </chapter>
+      <chapter id="1295">
+        <pagenum>4</pagenum>
+        <subchapter>0</subchapter>
+        <title>Terminology</title>
+        <content>&lt;p&gt;Throughout this training, there are two terms we will use frequently: &lt;b&gt;English language learners&lt;/b&gt; and &lt;b&gt;learning disabilities&lt;/b&gt;. &lt;/p&gt;
+&lt;p&gt;English language learners (ELLs) refers to individuals who are learning English as a foreign language.&lt;/p&gt;
+&lt;p&gt;Sometimes, ELLs are identified as having learning disabilities (LD). The term "learning disabilities" is used to refer to a wide variety of disorders that involve difficulties with listening, speaking, reading, writing, reasoning, or mathematical skills.&lt;/p&gt;</content>
+        <contentformat>1</contentformat>
+        <hidden>0</hidden>
+        <timemodified>1547480095</timemodified>
+        <importsrc></importsrc>
+      </chapter>
+    </chapters>
+    <chaptertags>
+    </chaptertags>
+  </book>
+</activity>

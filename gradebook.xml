@@ -1,29 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <gradebook>
+  <attributes>
+  </attributes>
   <grade_categories>
-    <grade_category id="2">
+    <grade_category id="390">
       <parent>$@NULL@$</parent>
       <depth>1</depth>
-      <path>/2/</path>
+      <path>/390/</path>
       <fullname>?</fullname>
       <aggregation>11</aggregation>
       <keephigh>0</keephigh>
       <droplow>0</droplow>
       <aggregateonlygraded>1</aggregateonlygraded>
       <aggregateoutcomes>0</aggregateoutcomes>
-      <aggregatesubcats>0</aggregatesubcats>
-      <timecreated>1367928763</timecreated>
-      <timemodified>1372875249</timemodified>
+      <timecreated>1565362551</timecreated>
+      <timemodified>1565362551</timemodified>
       <hidden>0</hidden>
     </grade_category>
   </grade_categories>
   <grade_items>
-    <grade_item id="3">
+    <grade_item id="2369">
       <categoryid>$@NULL@$</categoryid>
       <itemname>$@NULL@$</itemname>
       <itemtype>course</itemtype>
       <itemmodule>$@NULL@$</itemmodule>
-      <iteminstance>2</iteminstance>
+      <iteminstance>390</iteminstance>
       <itemnumber>$@NULL@$</itemnumber>
       <iteminfo>$@NULL@$</iteminfo>
       <idnumber>$@NULL@$</idnumber>
@@ -37,6 +38,8 @@
       <multfactor>1.00000</multfactor>
       <plusfactor>0.00000</plusfactor>
       <aggregationcoef>0.00000</aggregationcoef>
+      <aggregationcoef2>0.00000</aggregationcoef2>
+      <weightoverride>0</weightoverride>
       <sortorder>1</sortorder>
       <display>0</display>
       <decimals>$@NULL@$</decimals>
@@ -44,8 +47,8 @@
       <locked>0</locked>
       <locktime>0</locktime>
       <needsupdate>0</needsupdate>
-      <timecreated>1367928763</timecreated>
-      <timemodified>1372875249</timemodified>
+      <timecreated>1565362551</timecreated>
+      <timemodified>1565362551</timemodified>
       <grade_grades>
       </grade_grades>
     </grade_item>
@@ -53,5 +56,9 @@
   <grade_letters>
   </grade_letters>
   <grade_settings>
+    <grade_setting id="">
+      <name>minmaxtouse</name>
+      <value>1</value>
+    </grade_setting>
   </grade_settings>
 </gradebook>

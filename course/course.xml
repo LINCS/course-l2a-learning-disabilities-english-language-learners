@@ -1,37 +1,53 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<course id="4" contextid="33">
-  <shortname>ELLPUB</shortname>
+<course id="237" contextid="35821">
+  <shortname>L2A: ELLs </shortname>
   <fullname>L2A: Learning Disabilities and English Language Learners</fullname>
   <idnumber></idnumber>
-  <summary>&lt;p&gt;In this course, you will learn about the challenges of learning English as a foreign language, and the difficulties associated with testing for and diagnosing learning disabilities in English language learners, or ELLs. Upon completion of this lesson, you will be able to recognize how prevalent ELLs are in the United States and describe the challenges they face in learning English; identify key considerations when screening and testing ELLs who are suspected of having a learning disability; and describe instructional classroom strategies for teaching ELLs with suspected or diagnosed learning disabilities.&lt;/p&gt;
-&lt;p&gt;This course takes approximately 1 hour to complete.&lt;/p&gt;
-&lt;p&gt;---&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Please Note:&lt;/strong&gt;&lt;br /&gt;&lt;br /&gt;This course contains Adobe Flash content. To view the content, you must have the Adobe Flash Player installed. You can download and install the Flash Player from &lt;a rel="nofollow" href="http://www.adobe.com/products/flashplayer/"&gt;http://www.adobe.com/products/flashplayer/&lt;/a&gt;.&lt;br /&gt;&lt;br /&gt;From our experience, Adobe Flash content is best viewed in the Google Chrome web browser.&lt;br /&gt;&lt;br /&gt;Unfortunately, the Flash Player cannot run on all operating systems. &lt;br /&gt;&lt;br /&gt;If you are using an iPad, an iPhone, or an Android device running Android Jelly Bean or later, you may not be able to view the Adobe Flash content, and will need to take the course using a different device.&lt;/p&gt;</summary>
+  <summary></summary>
   <summaryformat>1</summaryformat>
-  <format>topics</format>
-  <showgrades>1</showgrades>
+  <format>topcoll</format>
+  <showgrades>0</showgrades>
   <newsitems>5</newsitems>
-  <startdate>1367640000</startdate>
+  <startdate>1565841600</startdate>
+  <enddate>0</enddate>
   <marker>0</marker>
-  <maxbytes>20971520</maxbytes>
+  <maxbytes>0</maxbytes>
   <legacyfiles>0</legacyfiles>
   <showreports>0</showreports>
   <visible>1</visible>
   <groupmode>0</groupmode>
   <groupmodeforce>0</groupmodeforce>
   <defaultgroupingid>0</defaultgroupingid>
-  <lang></lang>
+  <lang>en_us</lang>
   <theme></theme>
-  <timecreated>1367607102</timecreated>
-  <timemodified>1387549597</timemodified>
+  <timecreated>1546529847</timecreated>
+  <timemodified>1565882568</timemodified>
   <requested>0</requested>
   <enablecompletion>1</enablecompletion>
   <completionnotify>0</completionnotify>
   <numsections>1</numsections>
   <hiddensections>0</hiddensections>
-  <coursedisplay>0</coursedisplay>
+  <displayinstructions>2</displayinstructions>
+  <layoutelement>1</layoutelement>
+  <layoutstructure>1</layoutstructure>
+  <layoutcolumns>1</layoutcolumns>
+  <layoutcolumnorientation>2</layoutcolumnorientation>
+  <togglealignment>2</togglealignment>
+  <toggleiconposition>1</toggleiconposition>
+  <toggleiconset>arrow</toggleiconset>
+  <onesection>1</onesection>
+  <toggleallhover>2</toggleallhover>
+  <toggleforegroundcolour>000000</toggleforegroundcolour>
+  <toggleforegroundopacity>1.0</toggleforegroundopacity>
+  <toggleforegroundhovercolour>888888</toggleforegroundhovercolour>
+  <toggleforegroundhoveropacity>1.0</toggleforegroundhoveropacity>
+  <togglebackgroundcolour>e2e2f2</togglebackgroundcolour>
+  <togglebackgroundopacity>1.0</togglebackgroundopacity>
+  <togglebackgroundhovercolour>eeeeff</togglebackgroundhovercolour>
+  <togglebackgroundhoveropacity>1.0</togglebackgroundhoveropacity>
+  <showsectionsummary>1</showsectionsummary>
   <category id="2">
-    <name>Learning Disabilities</name>
+    <name>Disabilities and Equitable Outcomes</name>
     <description></description>
   </category>
   <tags>

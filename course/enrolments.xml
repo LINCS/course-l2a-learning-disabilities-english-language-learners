@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <enrolments>
   <enrols>
-    <enrol id="9">
+    <enrol id="956">
       <enrol>self</enrol>
       <status>0</status>
       <name>$@NULL@$</name>
@@ -9,6 +9,7 @@
       <enrolstartdate>0</enrolstartdate>
       <enrolenddate>0</enrolenddate>
       <expirynotify>0</expirynotify>
+      <expirythreshold>86400</expirythreshold>
       <notifyall>0</notifyall>
       <password>$@NULL@$</password>
       <cost>$@NULL@$</cost>
@@ -18,7 +19,7 @@
       <customint2>0</customint2>
       <customint3>0</customint3>
       <customint4>1</customint4>
-      <customint5>$@NULL@$</customint5>
+      <customint5>0</customint5>
       <customint6>1</customint6>
       <customint7>$@NULL@$</customint7>
       <customint8>$@NULL@$</customint8>
@@ -31,12 +32,12 @@
       <customtext2>$@NULL@$</customtext2>
       <customtext3>$@NULL@$</customtext3>
       <customtext4>$@NULL@$</customtext4>
-      <timecreated>1367607102</timecreated>
-      <timemodified>1367607102</timemodified>
+      <timecreated>1565362550</timecreated>
+      <timemodified>1565362550</timemodified>
       <user_enrolments>
       </user_enrolments>
     </enrol>
-    <enrol id="7">
+    <enrol id="957">
       <enrol>manual</enrol>
       <status>0</status>
       <name>$@NULL@$</name>
@@ -44,6 +45,7 @@
       <enrolstartdate>0</enrolstartdate>
       <enrolenddate>0</enrolenddate>
       <expirynotify>0</expirynotify>
+      <expirythreshold>86400</expirythreshold>
       <notifyall>0</notifyall>
       <password>$@NULL@$</password>
       <cost>$@NULL@$</cost>
@@ -66,12 +68,12 @@
       <customtext2>$@NULL@$</customtext2>
       <customtext3>$@NULL@$</customtext3>
       <customtext4>$@NULL@$</customtext4>
-      <timecreated>1367607102</timecreated>
-      <timemodified>1367607102</timemodified>
+      <timecreated>1565362550</timecreated>
+      <timemodified>1565362550</timemodified>
       <user_enrolments>
       </user_enrolments>
     </enrol>
-    <enrol id="8">
+    <enrol id="958">
       <enrol>guest</enrol>
       <status>1</status>
       <name>$@NULL@$</name>
@@ -79,6 +81,7 @@
       <enrolstartdate>0</enrolstartdate>
       <enrolenddate>0</enrolenddate>
       <expirynotify>0</expirynotify>
+      <expirythreshold>0</expirythreshold>
       <notifyall>0</notifyall>
       <password></password>
       <cost>$@NULL@$</cost>
@@ -101,8 +104,8 @@
       <customtext2>$@NULL@$</customtext2>
       <customtext3>$@NULL@$</customtext3>
       <customtext4>$@NULL@$</customtext4>
-      <timecreated>1367607102</timecreated>
-      <timemodified>1387549597</timemodified>
+      <timecreated>1565362550</timecreated>
+      <timemodified>1565362550</timemodified>
       <user_enrolments>
       </user_enrolments>
     </enrol>

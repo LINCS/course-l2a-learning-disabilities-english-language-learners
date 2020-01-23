@@ -1,3 +1,825 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <question_categories>
+  <question_category id="567">
+    <name>Default for learning-disabilities-and-english-language-learners</name>
+    <contextid>35821</contextid>
+    <contextlevel>50</contextlevel>
+    <contextinstanceid>237</contextinstanceid>
+    <info>The default category for questions shared in context 'learning-disabilities-and-english-language-learners'.</info>
+    <infoformat>0</infoformat>
+    <stamp>lincs-ovae-moodle-dev.civicactions.net+190109202550+4WMIx2</stamp>
+    <parent>569</parent>
+    <sortorder>999</sortorder>
+    <questions>
+      <question id="2342">
+        <parent>0</parent>
+        <name>Case Study Question</name>
+        <questiontext>&lt;p&gt;Based on this information, can you determine why Felipe is struggling in both Spanish and English? &lt;/p&gt;</questiontext>
+        <questiontextformat>1</questiontextformat>
+        <generalfeedback></generalfeedback>
+        <generalfeedbackformat>1</generalfeedbackformat>
+        <defaultmark>1.0000000</defaultmark>
+        <penalty>0.3333333</penalty>
+        <qtype>multichoice</qtype>
+        <length>1</length>
+        <stamp>lincs-ovae-moodle-dev.civicactions.net+190109202818+3obdWY</stamp>
+        <version>lincs-ovae-moodle-dev.civicactions.net+190109203423+9hQlym</version>
+        <hidden>0</hidden>
+        <timecreated>1547065698</timecreated>
+        <timemodified>1547066063</timemodified>
+        <createdby>12042</createdby>
+        <modifiedby>12042</modifiedby>
+        <plugin_qtype_multichoice_question>
+          <answers>
+            <answer id="7263">
+              <answertext>&lt;p&gt;Yes&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback>&lt;p&gt;That's incorrect.  While you have gathered some background information on Felipe's family, schooling, and aspirations, you need to learn more about Felipe to determine why he is struggling and whether or not he has a learning disability. &lt;/p&gt;
+&lt;p&gt;There are many reasons adult ELLs, like Felipe, struggle to learn English. These struggles cannot always be attributed to a learning disability and need to be looked into further through screening and a diagnostic evaluation.&lt;/p&gt;
+&lt;p&gt;   &lt;/p&gt;</feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="7264">
+              <answertext>&lt;p&gt;No&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>1.0000000</fraction>
+              <feedback>&lt;p&gt;That's correct!  While you have gathered some important background information on Felipe's family, schooling, and aspirations, more information is needed to determine why Felipe is struggling and whether or not he has a learning disability. &lt;/p&gt;
+&lt;p&gt;There are many reasons adult ELLs, like Felipe, struggle to learn English. These struggles cannot always be attributed to a learning disability and need to be looked into further through screening and a diagnostic evaluation. &lt;/p&gt;</feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+          </answers>
+          <multichoice id="1283">
+            <layout>0</layout>
+            <single>1</single>
+            <shuffleanswers>1</shuffleanswers>
+            <correctfeedback>&lt;p&gt;Your answer is correct.&lt;/p&gt;</correctfeedback>
+            <correctfeedbackformat>1</correctfeedbackformat>
+            <partiallycorrectfeedback>&lt;p&gt;Your answer is partially correct.&lt;/p&gt;</partiallycorrectfeedback>
+            <partiallycorrectfeedbackformat>1</partiallycorrectfeedbackformat>
+            <incorrectfeedback>&lt;p&gt;Your answer is incorrect.&lt;/p&gt;</incorrectfeedback>
+            <incorrectfeedbackformat>1</incorrectfeedbackformat>
+            <answernumbering>abc</answernumbering>
+            <shownumcorrect>1</shownumcorrect>
+          </multichoice>
+        </plugin_qtype_multichoice_question>
+        <question_hints>
+        </question_hints>
+        <tags>
+        </tags>
+      </question>
+      <question id="2343">
+        <parent>0</parent>
+        <name>Case Study Question</name>
+        <questiontext>&lt;p&gt;Based on the information you have about Abdul, should you recommend an LD assessment? &lt;/p&gt;</questiontext>
+        <questiontextformat>1</questiontextformat>
+        <generalfeedback></generalfeedback>
+        <generalfeedbackformat>1</generalfeedbackformat>
+        <defaultmark>1.0000000</defaultmark>
+        <penalty>0.3333333</penalty>
+        <qtype>multichoice</qtype>
+        <length>1</length>
+        <stamp>lincs-ovae-moodle-dev.civicactions.net+190109203916+zCKkNd</stamp>
+        <version>lincs-ovae-moodle-dev.civicactions.net+190109203916+wExU0l</version>
+        <hidden>0</hidden>
+        <timecreated>1547066356</timecreated>
+        <timemodified>1547066356</timemodified>
+        <createdby>12042</createdby>
+        <modifiedby>12042</modifiedby>
+        <plugin_qtype_multichoice_question>
+          <answers>
+            <answer id="7265">
+              <answertext>&lt;p&gt;Yes&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback>&lt;p&gt;That's incorrect. You need to learn more about Abdul before you recommend an LD assessment.&lt;/p&gt;</feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="7266">
+              <answertext>&lt;p&gt;No&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>1.0000000</fraction>
+              <feedback>&lt;p&gt;That's correct. You need to learn more about Abdul before you recommend an LD assessment.  &lt;/p&gt;</feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+          </answers>
+          <multichoice id="1284">
+            <layout>0</layout>
+            <single>1</single>
+            <shuffleanswers>1</shuffleanswers>
+            <correctfeedback>&lt;p&gt;Your answer is correct.&lt;/p&gt;</correctfeedback>
+            <correctfeedbackformat>1</correctfeedbackformat>
+            <partiallycorrectfeedback>&lt;p&gt;Your answer is partially correct.&lt;/p&gt;</partiallycorrectfeedback>
+            <partiallycorrectfeedbackformat>1</partiallycorrectfeedbackformat>
+            <incorrectfeedback>&lt;p&gt;Your answer is incorrect.&lt;/p&gt;</incorrectfeedback>
+            <incorrectfeedbackformat>1</incorrectfeedbackformat>
+            <answernumbering>abc</answernumbering>
+            <shownumcorrect>1</shownumcorrect>
+          </multichoice>
+        </plugin_qtype_multichoice_question>
+        <question_hints>
+        </question_hints>
+        <tags>
+        </tags>
+      </question>
+      <question id="2344">
+        <parent>0</parent>
+        <name>What else do you think you should know before recommending an LD assessment for Abdul?</name>
+        <questiontext>&lt;p&gt;What else do you think you should know before recommending an LD assessment for Abdul?&lt;/p&gt;
+&lt;p&gt;Select the correct answer.&lt;/p&gt;</questiontext>
+        <questiontextformat>1</questiontextformat>
+        <generalfeedback></generalfeedback>
+        <generalfeedbackformat>1</generalfeedbackformat>
+        <defaultmark>1.0000000</defaultmark>
+        <penalty>0.3333333</penalty>
+        <qtype>multichoice</qtype>
+        <length>1</length>
+        <stamp>lincs-ovae-moodle-dev.civicactions.net+190109204456+o7yNaq</stamp>
+        <version>lincs-ovae-moodle-dev.civicactions.net+190110184740+gYJr5X</version>
+        <hidden>0</hidden>
+        <timecreated>1547066696</timecreated>
+        <timemodified>1547146060</timemodified>
+        <createdby>12042</createdby>
+        <modifiedby>12042</modifiedby>
+        <plugin_qtype_multichoice_question>
+          <answers>
+            <answer id="7267">
+              <answertext>&lt;p&gt;How strong are Abdul’s English language and literacy skills?&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback>&lt;p&gt;The correct answer is D. All of the listed items would be good questions to ask before recommending an LD assessment. In addition, you may consider the following questions on screen.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;What are the similarities and differences between schooling in Iran and in the U.S.?&lt;/li&gt;
+&lt;li&gt;How would a diagnosis of LD affect Abdul? Could it be a source of shame? Or a helpful explanation of a problem that could lead to accommodations to help him learn better?&lt;/li&gt;
+&lt;li&gt;What were the English classes he took in Iran like?&lt;/li&gt;
+&lt;li&gt;How long has Abdul lived in the U.S.?&lt;/li&gt;
+&lt;li&gt;Does Abdul practice speaking English outside of class? If so, how much?&lt;/li&gt;
+&lt;li&gt;Does he practice reading and writing English outside of class? If so, how much?&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Only when you have gained enough knowledge through informal observations and asking questions should you move forward with recommending a formal assessment.&lt;/p&gt;</feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="7268">
+              <answertext>&lt;p&gt;What kinds of problems did he have with reading and writing in Arabic?&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback>&lt;p&gt;The correct answer is D. All of the listed items would be good questions to ask before recommending an LD assessment. In addition, you may consider the following questions on screen.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;What are the similarities and differences between schooling in Iran and in the U.S.?&lt;/li&gt;
+&lt;li&gt;How would a diagnosis of LD affect Abdul? Could it be a source of shame? Or a helpful explanation of a problem that could lead to accommodations to help him learn better?&lt;/li&gt;
+&lt;li&gt;What were the English classes he took in Iran like?&lt;/li&gt;
+&lt;li&gt;How long has Abdul lived in the U.S.?&lt;/li&gt;
+&lt;li&gt;Does Abdul practice speaking English outside of class? If so, how much?&lt;/li&gt;
+&lt;li&gt;Does he practice reading and writing English outside of class? If so, how much?&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Only when you have gained enough knowledge through informal observations and asking questions should you move forward with recommending a formal assessment.&lt;/p&gt;</feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="7269">
+              <answertext>&lt;p&gt;How long ago did her complete his last year or school in Iran?&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback>&lt;p&gt;The correct answer is D. All of the listed items would be good questions to ask before recommending an LD assessment. In addition, you may consider the following questions on screen.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;What are the similarities and differences between schooling in Iran and in the U.S.?&lt;/li&gt;
+&lt;li&gt;How would a diagnosis of LD affect Abdul? Could it be a source of shame? Or a helpful explanation of a problem that could lead to accommodations to help him learn better?&lt;/li&gt;
+&lt;li&gt;What were the English classes he took in Iran like?&lt;/li&gt;
+&lt;li&gt;How long has Abdul lived in the U.S.?&lt;/li&gt;
+&lt;li&gt;Does Abdul practice speaking English outside of class? If so, how much?&lt;/li&gt;
+&lt;li&gt;Does he practice reading and writing English outside of class? If so, how much?&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Only when you have gained enough knowledge through informal observations and asking questions should you move forward with recommending a formal assessment.&lt;/p&gt;</feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="7270">
+              <answertext>&lt;p&gt;All of the above.&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>1.0000000</fraction>
+              <feedback>&lt;p&gt;That is correct. All of the listed items would be good questions to ask before recommending an LD assessment. In addition, you may consider the following questions on screen.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;What are the similarities and differences between schooling in Iran and in the U.S.?&lt;/li&gt;
+&lt;li&gt;How would a diagnosis of LD affect Abdul? Could it be a source of shame? Or a helpful explanation of a problem that could lead to accommodations to help him learn better?&lt;/li&gt;
+&lt;li&gt;What were the English classes he took in Iran like?&lt;/li&gt;
+&lt;li&gt;How long has Abdul lived in the U.S.?&lt;/li&gt;
+&lt;li&gt;Does Abdul practice speaking English outside of class? If so, how much?&lt;/li&gt;
+&lt;li&gt;Does he practice reading and writing English outside of class? If so, how much?&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Only when you have gained enough knowledge through informal observations and asking questions should you move forward with recommending a formal assessment.&lt;/p&gt;</feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+          </answers>
+          <multichoice id="1285">
+            <layout>0</layout>
+            <single>1</single>
+            <shuffleanswers>0</shuffleanswers>
+            <correctfeedback>&lt;p&gt;Your answer is correct.&lt;/p&gt;</correctfeedback>
+            <correctfeedbackformat>1</correctfeedbackformat>
+            <partiallycorrectfeedback>&lt;p&gt;Your answer is partially correct.&lt;/p&gt;</partiallycorrectfeedback>
+            <partiallycorrectfeedbackformat>1</partiallycorrectfeedbackformat>
+            <incorrectfeedback>&lt;p&gt;Your answer is incorrect.&lt;/p&gt;</incorrectfeedback>
+            <incorrectfeedbackformat>1</incorrectfeedbackformat>
+            <answernumbering>abc</answernumbering>
+            <shownumcorrect>1</shownumcorrect>
+          </multichoice>
+        </plugin_qtype_multichoice_question>
+        <question_hints>
+        </question_hints>
+        <tags>
+        </tags>
+      </question>
+      <question id="2345">
+        <parent>0</parent>
+        <name>Quiz</name>
+        <questiontext>&lt;p&gt;True or False: A diagnostic evaluation should be performed immediately when a learner exhibits behaviors or symptoms consistent with a LD.&lt;/p&gt;</questiontext>
+        <questiontextformat>1</questiontextformat>
+        <generalfeedback>&lt;p&gt;A diagnostic evaluation should only be performed after an informal screening has taken place that indicates the likelihood of LD and the evaluation is deemed to have advantages.&lt;/p&gt;</generalfeedback>
+        <generalfeedbackformat>1</generalfeedbackformat>
+        <defaultmark>1.0000000</defaultmark>
+        <penalty>0.3333333</penalty>
+        <qtype>multichoice</qtype>
+        <length>1</length>
+        <stamp>lincs-ovae-moodle-dev.civicactions.net+190109211712+5TYFyH</stamp>
+        <version>lincs-ovae-moodle-dev.civicactions.net+190109211712+Dn5k89</version>
+        <hidden>0</hidden>
+        <timecreated>1547068632</timecreated>
+        <timemodified>1547068632</timemodified>
+        <createdby>12042</createdby>
+        <modifiedby>12042</modifiedby>
+        <plugin_qtype_multichoice_question>
+          <answers>
+            <answer id="7271">
+              <answertext>&lt;p&gt;True&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="7272">
+              <answertext>&lt;p&gt;False&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>1.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+          </answers>
+          <multichoice id="1286">
+            <layout>0</layout>
+            <single>1</single>
+            <shuffleanswers>1</shuffleanswers>
+            <correctfeedback>&lt;p&gt;Your answer is correct.&lt;/p&gt;</correctfeedback>
+            <correctfeedbackformat>1</correctfeedbackformat>
+            <partiallycorrectfeedback>&lt;p&gt;Your answer is partially correct.&lt;/p&gt;</partiallycorrectfeedback>
+            <partiallycorrectfeedbackformat>1</partiallycorrectfeedbackformat>
+            <incorrectfeedback>&lt;p&gt;Your answer is incorrect.&lt;/p&gt;</incorrectfeedback>
+            <incorrectfeedbackformat>1</incorrectfeedbackformat>
+            <answernumbering>abc</answernumbering>
+            <shownumcorrect>1</shownumcorrect>
+          </multichoice>
+        </plugin_qtype_multichoice_question>
+        <question_hints>
+        </question_hints>
+        <tags>
+        </tags>
+      </question>
+      <question id="2346">
+        <parent>0</parent>
+        <name>Quiz</name>
+        <questiontext>&lt;p&gt;True or False: The goal of screening ELLs is to provide a rough estimate of the learners’ overall skill levels.&lt;/p&gt;</questiontext>
+        <questiontextformat>1</questiontextformat>
+        <generalfeedback></generalfeedback>
+        <generalfeedbackformat>1</generalfeedbackformat>
+        <defaultmark>1.0000000</defaultmark>
+        <penalty>1.0000000</penalty>
+        <qtype>truefalse</qtype>
+        <length>1</length>
+        <stamp>lincs-ovae-moodle-dev.civicactions.net+190109211843+GYCujl</stamp>
+        <version>lincs-ovae-moodle-dev.civicactions.net+190109211843+DcIRrU</version>
+        <hidden>0</hidden>
+        <timecreated>1547068723</timecreated>
+        <timemodified>1547068723</timemodified>
+        <createdby>12042</createdby>
+        <modifiedby>12042</modifiedby>
+        <plugin_qtype_truefalse_question>
+          <answers>
+            <answer id="7273">
+              <answertext>True</answertext>
+              <answerformat>0</answerformat>
+              <fraction>1.0000000</fraction>
+              <feedback>&lt;p&gt;That’s correct. The goal is to provide a rough estimate of the learners’ overall skill levels, not to evaluate performance in each specific skill area.&lt;/p&gt;</feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="7274">
+              <answertext>False</answertext>
+              <answerformat>0</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback>&lt;p&gt;That’s incorrect. The goal is to provide a rough estimate of the learners’ overall skill levels, not to evaluate performance in each specific skill area.&lt;/p&gt;</feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+          </answers>
+          <truefalse id="249">
+            <trueanswer>7273</trueanswer>
+            <falseanswer>7274</falseanswer>
+          </truefalse>
+        </plugin_qtype_truefalse_question>
+        <question_hints>
+        </question_hints>
+        <tags>
+        </tags>
+      </question>
+      <question id="2347">
+        <parent>0</parent>
+        <name>Quiz</name>
+        <questiontext>&lt;p&gt;True or False: Supports and scaffolding recommendations can be targeted by ELL’s ELP level. &lt;/p&gt;</questiontext>
+        <questiontextformat>1</questiontextformat>
+        <generalfeedback></generalfeedback>
+        <generalfeedbackformat>1</generalfeedbackformat>
+        <defaultmark>1.0000000</defaultmark>
+        <penalty>1.0000000</penalty>
+        <qtype>truefalse</qtype>
+        <length>1</length>
+        <stamp>lincs-ovae-moodle-dev.civicactions.net+190109211935+EDdqOW</stamp>
+        <version>lincs-ovae-moodle-dev.civicactions.net+190109211935+oVG9Yi</version>
+        <hidden>0</hidden>
+        <timecreated>1547068775</timecreated>
+        <timemodified>1547068775</timemodified>
+        <createdby>12042</createdby>
+        <modifiedby>12042</modifiedby>
+        <plugin_qtype_truefalse_question>
+          <answers>
+            <answer id="7275">
+              <answertext>True</answertext>
+              <answerformat>0</answerformat>
+              <fraction>1.0000000</fraction>
+              <feedback>&lt;p&gt;That’s correct. Supports and scaffolds are appropriate instructional strategies at many ELP levels. Teachers should consider the level, the specific skills of the student, the impact of a learning disability, and the difficulty of the content when selecting the supports and scaffolds to offer. &lt;/p&gt;</feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="7276">
+              <answertext>False</answertext>
+              <answerformat>0</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback>&lt;p&gt;That’s incorrect. Supports and scaffolds are appropriate instructional strategies at many ELP levels. Teachers should consider the level, the specific skills of the student, the impact of a learning disability, and the difficulty of the content when selecting the supports and scaffolds to offer. &lt;/p&gt;</feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+          </answers>
+          <truefalse id="250">
+            <trueanswer>7275</trueanswer>
+            <falseanswer>7276</falseanswer>
+          </truefalse>
+        </plugin_qtype_truefalse_question>
+        <question_hints>
+        </question_hints>
+        <tags>
+        </tags>
+      </question>
+      <question id="2348">
+        <parent>0</parent>
+        <name>Quiz</name>
+        <questiontext>&lt;p&gt;Why are some ELLs assessed for LD?&lt;/p&gt;</questiontext>
+        <questiontextformat>1</questiontextformat>
+        <generalfeedback>&lt;p&gt;All of the displayed options are reasons for assessing an ELL for LD.&lt;/p&gt;</generalfeedback>
+        <generalfeedbackformat>1</generalfeedbackformat>
+        <defaultmark>1.0000000</defaultmark>
+        <penalty>0.3333333</penalty>
+        <qtype>multichoice</qtype>
+        <length>1</length>
+        <stamp>lincs-ovae-moodle-dev.civicactions.net+190109212138+q325jd</stamp>
+        <version>lincs-ovae-moodle-dev.civicactions.net+190109212138+zGcMy7</version>
+        <hidden>0</hidden>
+        <timecreated>1547068898</timecreated>
+        <timemodified>1547068898</timemodified>
+        <createdby>12042</createdby>
+        <modifiedby>12042</modifiedby>
+        <plugin_qtype_multichoice_question>
+          <answers>
+            <answer id="7277">
+              <answertext>&lt;p&gt;They need to get their LD documented to receive accommodations on state tests.&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="7278">
+              <answertext>&lt;p&gt;Through informal observations, they exhibit struggles associated with LD.&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="7279">
+              <answertext>&lt;p&gt;They have limited education in their native language.&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="7280">
+              <answertext>&lt;p&gt;All of the above&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>1.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+          </answers>
+          <multichoice id="1287">
+            <layout>0</layout>
+            <single>1</single>
+            <shuffleanswers>1</shuffleanswers>
+            <correctfeedback>&lt;p&gt;Your answer is correct.&lt;/p&gt;</correctfeedback>
+            <correctfeedbackformat>1</correctfeedbackformat>
+            <partiallycorrectfeedback>&lt;p&gt;Your answer is partially correct.&lt;/p&gt;</partiallycorrectfeedback>
+            <partiallycorrectfeedbackformat>1</partiallycorrectfeedbackformat>
+            <incorrectfeedback>&lt;p&gt;Your answer is incorrect.&lt;/p&gt;</incorrectfeedback>
+            <incorrectfeedbackformat>1</incorrectfeedbackformat>
+            <answernumbering>abc</answernumbering>
+            <shownumcorrect>1</shownumcorrect>
+          </multichoice>
+        </plugin_qtype_multichoice_question>
+        <question_hints>
+        </question_hints>
+        <tags>
+        </tags>
+      </question>
+      <question id="2349">
+        <parent>0</parent>
+        <name>Quiz</name>
+        <questiontext>&lt;p&gt;Which of the following are signs of a qualified evaluator?&lt;/p&gt;</questiontext>
+        <questiontextformat>1</questiontextformat>
+        <generalfeedback>&lt;p&gt;The correct answer is D. All of the displayed options are signs of a qualified evaluator.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Review &lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Congratulations! You have completed the Learning to Achieve Learning Disabilities and English Language Learners online course. &lt;/p&gt;
+&lt;p&gt;You should now understand the prevalence of ELLs;  be able to describe the challenges they face in learning English; identify key considerations when screening and testing ELLs who mayhave a learning disability; and describe instructional classroom strategies for teaching ELLs with possible or diagnosed learning disabilities.&lt;/p&gt;</generalfeedback>
+        <generalfeedbackformat>1</generalfeedbackformat>
+        <defaultmark>1.0000000</defaultmark>
+        <penalty>0.3333333</penalty>
+        <qtype>multichoice</qtype>
+        <length>1</length>
+        <stamp>lincs-ovae-moodle-dev.civicactions.net+190109212419+ZUGeFU</stamp>
+        <version>lincs-ovae-moodle-dev.civicactions.net+190110124210+bedwZ6</version>
+        <hidden>0</hidden>
+        <timecreated>1547069059</timecreated>
+        <timemodified>1547124130</timemodified>
+        <createdby>12042</createdby>
+        <modifiedby>12042</modifiedby>
+        <plugin_qtype_multichoice_question>
+          <answers>
+            <answer id="7281">
+              <answertext>&lt;p&gt;Experience with the culture of the ELL&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="7282">
+              <answertext>&lt;p&gt;Experience evaluating adolescents and adults with LD&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="7283">
+              <answertext>&lt;p&gt;Fluency in both English and the native language of the examinee&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="7284">
+              <answertext>&lt;p&gt;All of the above&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>1.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+          </answers>
+          <multichoice id="1288">
+            <layout>0</layout>
+            <single>1</single>
+            <shuffleanswers>1</shuffleanswers>
+            <correctfeedback>&lt;p&gt;Your answer is correct.&lt;/p&gt;</correctfeedback>
+            <correctfeedbackformat>1</correctfeedbackformat>
+            <partiallycorrectfeedback>&lt;p&gt;Your answer is partially correct.&lt;/p&gt;</partiallycorrectfeedback>
+            <partiallycorrectfeedbackformat>1</partiallycorrectfeedbackformat>
+            <incorrectfeedback>&lt;p&gt;Your answer is incorrect.&lt;/p&gt;</incorrectfeedback>
+            <incorrectfeedbackformat>1</incorrectfeedbackformat>
+            <answernumbering>abc</answernumbering>
+            <shownumcorrect>1</shownumcorrect>
+          </multichoice>
+        </plugin_qtype_multichoice_question>
+        <question_hints>
+        </question_hints>
+        <tags>
+        </tags>
+      </question>
+      <question id="2350">
+        <parent>0</parent>
+        <name>1.</name>
+        <questiontext>&lt;p&gt;Q: True or False: A diagnostic evaluation should be performed immediately when a learner exhibits behaviors or symptoms consistent with a LD.&lt;/p&gt;</questiontext>
+        <questiontextformat>1</questiontextformat>
+        <generalfeedback></generalfeedback>
+        <generalfeedbackformat>1</generalfeedbackformat>
+        <defaultmark>1.0000000</defaultmark>
+        <penalty>1.0000000</penalty>
+        <qtype>truefalse</qtype>
+        <length>1</length>
+        <stamp>lincs-ovae-moodle-dev.civicactions.net+190114194704+zOVgWG</stamp>
+        <version>lincs-moodle-dev.civicactions.net+190618210434+8VlUbC</version>
+        <hidden>0</hidden>
+        <timecreated>1547495224</timecreated>
+        <timemodified>1560891874</timemodified>
+        <createdby>12042</createdby>
+        <modifiedby>12042</modifiedby>
+        <plugin_qtype_truefalse_question>
+          <answers>
+            <answer id="7285">
+              <answertext>True</answertext>
+              <answerformat>0</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback>&lt;p&gt;No, a diagnostic evaluation should only be performed after an informal screening has taken place that indicates the likelihood of LD and the evaluation is deemed to have advantages.&lt;/p&gt;</feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="7286">
+              <answertext>False</answertext>
+              <answerformat>0</answerformat>
+              <fraction>1.0000000</fraction>
+              <feedback>&lt;p&gt;Correct, a diagnostic evaluation should only be performed after an informal screening has taken place that indicates the likelihood of LD and the evaluation is deemed to have advantages.&lt;/p&gt;</feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+          </answers>
+          <truefalse id="251">
+            <trueanswer>7285</trueanswer>
+            <falseanswer>7286</falseanswer>
+          </truefalse>
+        </plugin_qtype_truefalse_question>
+        <question_hints>
+        </question_hints>
+        <tags>
+        </tags>
+      </question>
+      <question id="2351">
+        <parent>0</parent>
+        <name>2</name>
+        <questiontext>&lt;p&gt;True or False:&amp;nbsp;The goal of screening ELLs is to provide a rough estimate of the learners’ overall skill levels.&lt;/p&gt;</questiontext>
+        <questiontextformat>1</questiontextformat>
+        <generalfeedback></generalfeedback>
+        <generalfeedbackformat>1</generalfeedbackformat>
+        <defaultmark>1.0000000</defaultmark>
+        <penalty>1.0000000</penalty>
+        <qtype>truefalse</qtype>
+        <length>1</length>
+        <stamp>lincs-ovae-moodle-dev.civicactions.net+190114194806+l7q5c3</stamp>
+        <version>lincs-moodle-dev.civicactions.net+190618210604+VYLyOY</version>
+        <hidden>0</hidden>
+        <timecreated>1547495286</timecreated>
+        <timemodified>1560891964</timemodified>
+        <createdby>12042</createdby>
+        <modifiedby>12042</modifiedby>
+        <plugin_qtype_truefalse_question>
+          <answers>
+            <answer id="7287">
+              <answertext>True</answertext>
+              <answerformat>0</answerformat>
+              <fraction>1.0000000</fraction>
+              <feedback>&lt;p&gt;That’s correct. The goal is to provide a rough estimate of the learners’ overall skill levels, not to evaluate performance in each specific skill area.&lt;/p&gt;</feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="7288">
+              <answertext>False</answertext>
+              <answerformat>0</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback>&lt;p&gt;No. The goal is to provide a rough estimate of the learners’ overall skill levels, not to evaluate performance in each specific skill area.&lt;/p&gt;</feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+          </answers>
+          <truefalse id="252">
+            <trueanswer>7287</trueanswer>
+            <falseanswer>7288</falseanswer>
+          </truefalse>
+        </plugin_qtype_truefalse_question>
+        <question_hints>
+        </question_hints>
+        <tags>
+        </tags>
+      </question>
+      <question id="2352">
+        <parent>0</parent>
+        <name>3</name>
+        <questiontext>&lt;p&gt;Supports and scaffolding recommendations can be targeted by ELL’s ELP level.&amp;nbsp;&lt;/p&gt;</questiontext>
+        <questiontextformat>1</questiontextformat>
+        <generalfeedback></generalfeedback>
+        <generalfeedbackformat>1</generalfeedbackformat>
+        <defaultmark>1.0000000</defaultmark>
+        <penalty>1.0000000</penalty>
+        <qtype>truefalse</qtype>
+        <length>1</length>
+        <stamp>lincs-ovae-moodle-dev.civicactions.net+190114194848+Br2Jgo</stamp>
+        <version>lincs-moodle-dev.civicactions.net+190618210612+dq6icm</version>
+        <hidden>0</hidden>
+        <timecreated>1547495328</timecreated>
+        <timemodified>1560891972</timemodified>
+        <createdby>12042</createdby>
+        <modifiedby>12042</modifiedby>
+        <plugin_qtype_truefalse_question>
+          <answers>
+            <answer id="7289">
+              <answertext>True</answertext>
+              <answerformat>0</answerformat>
+              <fraction>1.0000000</fraction>
+              <feedback>&lt;p&gt;That’s correct. Supports and scaffolds are appropriate instructional strategies at many ELP levels. Teachers should consider the level, the specific skills of the student, the impact of a learning disability, and the difficulty of the content when selecting the supports and scaffolds to offer.&amp;nbsp;&lt;/p&gt;</feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="7290">
+              <answertext>False</answertext>
+              <answerformat>0</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback>&lt;p&gt;No. Supports and scaffolds are appropriate instructional strategies at many ELP levels. Teachers should consider the level, the specific skills of the student, the impact of a learning disability, and the difficulty of the content when selecting the supports and scaffolds to offer.&amp;nbsp;&lt;/p&gt;</feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+          </answers>
+          <truefalse id="253">
+            <trueanswer>7289</trueanswer>
+            <falseanswer>7290</falseanswer>
+          </truefalse>
+        </plugin_qtype_truefalse_question>
+        <question_hints>
+        </question_hints>
+        <tags>
+        </tags>
+      </question>
+      <question id="2353">
+        <parent>0</parent>
+        <name>4</name>
+        <questiontext>&lt;p&gt;Why are some ELLs assessed for LD?&lt;/p&gt;</questiontext>
+        <questiontextformat>1</questiontextformat>
+        <generalfeedback></generalfeedback>
+        <generalfeedbackformat>1</generalfeedbackformat>
+        <defaultmark>1.0000000</defaultmark>
+        <penalty>0.0000000</penalty>
+        <qtype>multichoice</qtype>
+        <length>1</length>
+        <stamp>lincs-ovae-moodle-dev.civicactions.net+190114195115+w3rlcz</stamp>
+        <version>lincs-moodle-dev.civicactions.net+190618210702+6mOLCa</version>
+        <hidden>0</hidden>
+        <timecreated>1547495475</timecreated>
+        <timemodified>1560892022</timemodified>
+        <createdby>12042</createdby>
+        <modifiedby>12042</modifiedby>
+        <plugin_qtype_multichoice_question>
+          <answers>
+            <answer id="7291">
+              <answertext>&lt;p&gt;They need LD documentation to receive accommodations for testing. &lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback>&lt;p&gt;This answer is incorrect.&lt;/p&gt;</feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="7292">
+              <answertext>&lt;p&gt;Through informal observations, they exhibit struggles associated with LD.&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback>&lt;p&gt;This answer is incorrect.&lt;/p&gt;</feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="7293">
+              <answertext>&lt;p&gt;They have limited education in their native language.&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback>&lt;p&gt;This answer is incorrect.&lt;/p&gt;</feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="7294">
+              <answertext>&lt;p&gt;All of the above.&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>1.0000000</fraction>
+              <feedback>&lt;p&gt;That's correct. All of the displayed options are reasons for assessing an ELL for LD.&lt;/p&gt;</feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+          </answers>
+          <multichoice id="1289">
+            <layout>0</layout>
+            <single>1</single>
+            <shuffleanswers>0</shuffleanswers>
+            <correctfeedback>&lt;p&gt;Your answer is correct.&lt;/p&gt;</correctfeedback>
+            <correctfeedbackformat>1</correctfeedbackformat>
+            <partiallycorrectfeedback>&lt;p&gt;Your answer is partially correct.&lt;/p&gt;</partiallycorrectfeedback>
+            <partiallycorrectfeedbackformat>1</partiallycorrectfeedbackformat>
+            <incorrectfeedback>&lt;p&gt;Your answer is incorrect.&lt;/p&gt;</incorrectfeedback>
+            <incorrectfeedbackformat>1</incorrectfeedbackformat>
+            <answernumbering>abc</answernumbering>
+            <shownumcorrect>1</shownumcorrect>
+          </multichoice>
+        </plugin_qtype_multichoice_question>
+        <question_hints>
+        </question_hints>
+        <tags>
+        </tags>
+      </question>
+      <question id="2354">
+        <parent>0</parent>
+        <name>5</name>
+        <questiontext>&lt;p&gt;Which of the following are signs of a qualified evaluator? Select as many as apply.&lt;/p&gt;</questiontext>
+        <questiontextformat>1</questiontextformat>
+        <generalfeedback></generalfeedback>
+        <generalfeedbackformat>1</generalfeedbackformat>
+        <defaultmark>1.0000000</defaultmark>
+        <penalty>0.0000000</penalty>
+        <qtype>multichoice</qtype>
+        <length>1</length>
+        <stamp>lincs-ovae-moodle-dev.civicactions.net+190114195732+HyiSY1</stamp>
+        <version>courses.lincs.ed.gov+190815151725+ORnMqY</version>
+        <hidden>0</hidden>
+        <timecreated>1547495852</timecreated>
+        <timemodified>1565882245</timemodified>
+        <createdby>12042</createdby>
+        <modifiedby>18</modifiedby>
+        <plugin_qtype_multichoice_question>
+          <answers>
+            <answer id="7295">
+              <answertext>&lt;p&gt;Experience with the culture of the ELL&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback>&lt;p&gt;This answer is incorrect.&lt;/p&gt;</feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="7296">
+              <answertext>&lt;p&gt;Experience evaluating adolescents and adults with LD&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback>&lt;p&gt;This answer is incorrect.&lt;/p&gt;</feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="7297">
+              <answertext>&lt;p&gt;Fluency in both English and the native language of the examinee&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback>&lt;p&gt;This answer is incorrect.&lt;/p&gt;</feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="7298">
+              <answertext>&lt;p&gt;All of the above&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>1.0000000</fraction>
+              <feedback>&lt;p&gt;That's correct. All of the displayed options are signs of a qualified evaluator.&lt;/p&gt;</feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+          </answers>
+          <multichoice id="1290">
+            <layout>0</layout>
+            <single>0</single>
+            <shuffleanswers>0</shuffleanswers>
+            <correctfeedback>&lt;p&gt;Your answer is correct.&lt;/p&gt;</correctfeedback>
+            <correctfeedbackformat>1</correctfeedbackformat>
+            <partiallycorrectfeedback>&lt;p&gt;Your answer is partially correct.&lt;/p&gt;</partiallycorrectfeedback>
+            <partiallycorrectfeedbackformat>1</partiallycorrectfeedbackformat>
+            <incorrectfeedback>&lt;p&gt;Your answer is incorrect.&lt;/p&gt;</incorrectfeedback>
+            <incorrectfeedbackformat>1</incorrectfeedbackformat>
+            <answernumbering>abc</answernumbering>
+            <shownumcorrect>1</shownumcorrect>
+          </multichoice>
+        </plugin_qtype_multichoice_question>
+        <question_hints>
+        </question_hints>
+        <tags>
+        </tags>
+      </question>
+    </questions>
+  </question_category>
+  <question_category id="568">
+    <name>Default for Quiz</name>
+    <contextid>35834</contextid>
+    <contextlevel>70</contextlevel>
+    <contextinstanceid>8458</contextinstanceid>
+    <info>The default category for questions shared in context 'Quiz'.</info>
+    <infoformat>0</infoformat>
+    <stamp>lincs-ovae-moodle-dev.civicactions.net+190114194529+kGT71u</stamp>
+    <parent>570</parent>
+    <sortorder>999</sortorder>
+    <questions>
+    </questions>
+  </question_category>
+  <question_category id="569">
+    <name>top</name>
+    <contextid>35821</contextid>
+    <contextlevel>50</contextlevel>
+    <contextinstanceid>237</contextinstanceid>
+    <info></info>
+    <infoformat>0</infoformat>
+    <stamp>courses.lincs.ed.gov+190809145550+BzOoAR</stamp>
+    <parent>0</parent>
+    <sortorder>0</sortorder>
+    <questions>
+    </questions>
+  </question_category>
+  <question_category id="570">
+    <name>top</name>
+    <contextid>35834</contextid>
+    <contextlevel>70</contextlevel>
+    <contextinstanceid>8458</contextinstanceid>
+    <info></info>
+    <infoformat>0</infoformat>
+    <stamp>courses.lincs.ed.gov+190809145551+u1s5cw</stamp>
+    <parent>0</parent>
+    <sortorder>0</sortorder>
+    <questions>
+    </questions>
+  </question_category>
 </question_categories>
