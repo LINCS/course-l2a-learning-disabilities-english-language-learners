@@ -1,9 +1,6 @@
 # Course: L2A: Learning Disabilities and English Language Learners
 In this Moodle course, you will learn about the challenges of learning English as a foreign language, and the difficulties associated with testing for and diagnosing learning disabilities in English language learners, or ELLs. Upon completion of this lesson, you will be able to recognize how prevalent ELLs are in the United States and describe the challenges they face in learning English; identify key considerations when screening and testing ELLs who are suspected of having a learning disability; and describe instructional classroom strategies for teaching ELLs with suspected or diagnosed learning disabilities. This course takes approximately 1 hour to complete.
 
-## Please Note
-This course contains Adobe Flash content. To view the content, you must have the Adobe Flash Player installed. You can download and install the Flash Player from http://www.adobe.com/products/flashplayer/. From our experience, Adobe Flash content is best viewed in the Google Chrome web browser. Unfortunately, the Flash Player cannot run on all operating systems. If you are using an iPad, an iPhone, or an Android device running Android Jelly Bean or later, you may not be able to view the Adobe Flash content, and will need to take the course using a different device.
-
 ## Import Instructions
 The files for this course are provided in an uncompressed format. In order to import this course into your Moodle site please follow the instructions provided below:
 
